@@ -1,0 +1,3454 @@
+{
+  "win_counts": {
+    "sft": 134,
+    "dpo": 106,
+    "simpo": 65,
+    "orpo": 55
+  },
+  "heldout_translations": [
+    {
+      "english": "The Maestro Edge 125 is also equipped with Hero MotoCorp's i3S (idle-Start-Stop-System) technology, which helps improve the fuel efficiency",
+      "reference": "",
+      "sft": "మాస్ట్రో ఎడ్జ్ 125 లో హీరో మోటోకార్ప్ యొక్క ఐ3ఎస్ (ఐడిల్-స్టార్ట్-స్టాప్-సిస్టమ్) టెక్నాలజీ కూడా ఉంది, ఇది ఇంధన సామర్థ్యాన్ని మెరుగుపరచడంలో సహాయపడుతుంది",
+      "dpo": "మాస్ట్రో ఎడ్జ్ 125 లో హీరో మోటోకార్ప్ యొక్క ఐ3ఎస్ (ఐడిల్-స్టార్ట్-స్టాప్-సిస్టమ్) టెక్నాలజీ కూడా ఉంది, ఇది ఇంధన సామర్థ్యాన్ని మెరుగుపరచడంలో సహాయపడుతుంది",
+      "simpo": "మాస్ట్రో ఎడ్జ్ 125లో హీరో మోటోకార్ప్ యొక్క ఐ3ఎస్ (ఐడిల్-స్టార్ట్-స్టాప్-సిస్టమ్) టెక్నాలజీ కూడా ఉంది, ఇది ఇంధన సామర్థ్యాన్ని మెరుగుపరచడంలో సహాయపడుతుంది",
+      "orpo": "మాస్ట్రో ఎడ్జ్ 125లో హీరో మోటోకార్ప్ యొక్క ఐ3ఎస్ (ఐడిల్-స్టార్ట్-స్టాప్-సిస్టమ్) టెక్నాలజీ కూడా ఉంది, ఇది ఇంధన సామర్థ్యాన్ని మెరుగుపరచడంలో సహాయపడుతుంది"
+    },
+    {
+      "english": "is the question plaguing many.",
+      "reference": "",
+      "sft": "ఇది చాలా మందిని వేధిస్తున్న ప్రశ్న.",
+      "dpo": "ఇది చాలా మందిని వేధిస్తున్న ప్రశ్న.",
+      "simpo": "ఇది చాలా మందిని వేధిస్తున్న ప్రశ్న.",
+      "orpo": "అనేది చాలా మందిని వేధిస్తున్న ప్రశ్న."
+    },
+    {
+      "english": "I pray that those who are injured recover quickly.",
+      "reference": "",
+      "sft": "గాయపడిన వారు త్వరగా కోలుకోవాలని నేను ప్రార్థిస్తున్నాను.",
+      "dpo": "గాయపడిన వారు త్వరగా కోలుకోవాలని నేను ప్రార్థిస్తున్నాను.",
+      "simpo": "గాయపడిన వారు త్వరగా కోలుకోవాలని నేను ప్రార్థిస్తున్నాను.",
+      "orpo": "గాయపడిన వారు త్వరగా కోలుకోవాలని నేను ప్రార్థిస్తున్నాను."
+    },
+    {
+      "english": "Indian tennis star Sania Mirza.",
+      "reference": "",
+      "sft": "భారత టెన్నిస్ స్టార్ సానియా మీర్జా",
+      "dpo": "భారత టెన్నిస్ స్టార్ సానియా మీర్జా",
+      "simpo": "భారత టెన్నిస్ స్టార్ సానియా మీర్జా",
+      "orpo": "భారత టెన్నిస్ స్టార్ సానియా మీర్జా"
+    },
+    {
+      "english": "Upcoming projects.",
+      "reference": "",
+      "sft": "రాబోయే ప్రాజెక్టులు.",
+      "dpo": "రాబోయే ప్రాజెక్టులు.",
+      "simpo": "రాబోయే ప్రాజెక్టులు.",
+      "orpo": "రాబోయే ప్రాజెక్టులు."
+    },
+    {
+      "english": "Nothing over the top.",
+      "reference": "",
+      "sft": "పైన ఏమీ లేదు.",
+      "dpo": "పైన ఏమీ లేదు.",
+      "simpo": "పైన ఏమీ లేదు.",
+      "orpo": "పైన ఏమీ లేదు."
+    },
+    {
+      "english": "He sings very well.",
+      "reference": "",
+      "sft": "ఆయన చాలా బాగా పాడతారు.",
+      "dpo": "ఆయన చాలా బాగా పాడతారు.",
+      "simpo": "అతను చాలా బాగా పాడతాడు.",
+      "orpo": "ఆయన చాలా బాగా పాడతారు."
+    },
+    {
+      "english": "From fiscal irresponsibility to fiscal prudence , from high inflation to low inflation, from reckless lending creating Non performing assets to merit based lending, from infrastructure deficit to infrastructure surplus, from mis-managed urban growth to holistic and balanced growth and from physical to digital infrastructure",
+      "reference": "",
+      "sft": "ఆర్థిక బాధ్యతారాహిత్యం నుండి ఆర్థిక వివేకం వరకు, అధిక ద్రవ్యోల్బణం నుండి తక్కువ ద్రవ్యోల్బణం వరకు, నిర్లక్ష్యంగా రుణాలు ఇవ్వడం నుండి నిరపాయమైన ఆస్తులను సృష్టించడం వరకు, మౌలిక సదుపాయాల లోటు నుండి మౌలిక సదుపాయాల మిగులు వరకు, తప్పుగా నిర్వహించే పట్టణ వృద్ధి నుండి సంపూర్ణ మరియు సమతుల్య వృద్ధి వరకు మరియు భౌతికంగా డిజిటల్ మౌలిక సదుపాయాల వరకు",
+      "dpo": "ఆర్థిక బాధ్యతారాహిత్యం నుండి ఆర్థిక వివేకం వరకు, అధిక ద్రవ్యోల్బణం నుండి తక్కువ ద్రవ్యోల్బణం వరకు, నిర్లక్ష్యంగా రుణాలు ఇవ్వడం నుండి నిరర్ధక ఆస్తులను సృష్టించడం నుండి అర్హత ఆధారిత రుణాలు వరకు, మౌలిక సదుపాయాల లోటు నుండి మౌలిక సదుపాయాల మిగులు వరకు, తప్పుగా నిర్వహించబడుతున్న పట్టణ వృద్ధి నుండి సంపూర్ణ మరియు సమతుల్య వృద్ధి వరకు మరియు భౌతికంగా డిజిటల్ మౌలిక సదుపాయాల వరకు",
+      "simpo": "ఆర్థిక బాధ్యతారాహిత్యం నుండి ఆర్థిక వివేకం వరకు, అధిక ద్రవ్యోల్బణం నుండి తక్కువ ద్రవ్యోల్బణం వరకు, నిర్లక్ష్యంగా రుణాలు ఇవ్వడం నుండి నిరర్ధక ఆస్తులను సృష్టించడం నుండి అర్హత ఆధారిత రుణాలు వరకు, మౌలిక సదుపాయాల లోటు నుండి మౌలిక సదుపాయాల మిగులు వరకు, తప్పుగా నిర్వహించే పట్టణ వృద్ధి నుండి సంపూర్ణ మరియు సమతుల్య వృద్ధి వరకు మరియు భౌతికంగా డిజిటల్ మౌలిక సదుపాయాల వరకు",
+      "orpo": "ఆర్థిక బాధ్యతారాహిత్యం నుండి ఆర్థిక వివేకం వరకు, అధిక ద్రవ్యోల్బణం నుండి తక్కువ ద్రవ్యోల్బణం వరకు, నిర్లక్ష్యంగా రుణాలు ఇవ్వడం నుండి నిరర్ధక ఆస్తులను సృష్టించడం వరకు, అర్హత ఆధారిత రుణాలు వరకు, మౌలిక సదుపాయాల లోటు నుండి మౌలిక సదుపాయాల మిగులు వరకు, తప్పుగా నిర్వహించబడే పట్టణ వృద్ధి నుండి సమగ్ర మరియు సమతుల్య వృద్ధి వరకు మరియు భౌతిక నుండి డిజిటల్ మౌలిక సదుపాయాల వరకు"
+    },
+    {
+      "english": "But that comes with experience.",
+      "reference": "",
+      "sft": "కానీ అది అనుభవంతో వస్తుంది.",
+      "dpo": "కానీ అది అనుభవంతో వస్తుంది.",
+      "simpo": "కానీ అది అనుభవంతో వస్తుంది.",
+      "orpo": "కానీ అది అనుభవంతో వస్తుంది."
+    },
+    {
+      "english": "After that many developments had taken place in this region.",
+      "reference": "",
+      "sft": "ఆ తరువాత ఈ ప్రాంతంలో అనేక పరిణామాలు జరిగాయి.",
+      "dpo": "ఆ తరువాత ఈ ప్రాంతంలో అనేక పరిణామాలు జరిగాయి.",
+      "simpo": "ఆ తరువాత ఈ ప్రాంతంలో అనేక పరిణామాలు జరిగాయి.",
+      "orpo": "ఆ తరువాత ఈ ప్రాంతంలో అనేక పరిణామాలు జరిగాయి."
+    },
+    {
+      "english": "I simply dont want to.",
+      "reference": "",
+      "sft": "నాకు మాత్రం ఇష్టం లేదు.",
+      "dpo": "నాకు మాత్రం ఇష్టం లేదు.",
+      "simpo": "నాకు మాత్రం ఇష్టం లేదు.",
+      "orpo": "నేను కేవలం కోరుకోను."
+    },
+    {
+      "english": "Those who live by Gods Word have the prospect of seeing with their own eyes the fulfillment of such thrilling prophecies as the one recorded at Isaiah 11: 9, which says: They [humankind] will not do any harm or cause any ruin in all my holy mountain. because the earth will certainly be filled with the knowledge of Jehovah as the waters are covering the very sea.",
+      "reference": "",
+      "sft": "యెషయా 11:9లో నమోదు చేయబడిన అటువంటి ఉత్కంఠభరితమైన ప్రవచనాల నెరవేర్పును తమ సొంత కళ్ళతో చూసే అవకాశం ఉంది, ఇది ఇలా చెబుతుందిః \"వారు [మానవజాతి] నా పవిత్ర పర్వతం మొత్తానికి ఎటువంటి హాని చేయరు లేదా ఎటువంటి విధ్వంసం కలిగించరు. ఎందుకంటే సముద్రం నీటితో కప్పబడి ఉన్నందున భూమి ఖచ్చితంగా యెహోవా పరిజ్ఞానంతో నిండిపోతుంది\".",
+      "dpo": "యెషయా 11:9లో నమోదు చేయబడిన అటువంటి ఉత్కంఠభరితమైన ప్రవచనాల నెరవేర్పును తమ సొంత కళ్ళతో చూసే అవకాశం ఉంది, ఇది ఇలా చెబుతుందిః \"వారు [మానవజాతి] నా పవిత్ర పర్వతం మొత్తానికి ఎటువంటి హాని చేయరు లేదా ఎటువంటి విధ్వంసం కలిగించరు. ఎందుకంటే సముద్రం నీటితో కప్పబడి ఉన్నందున భూమి ఖచ్చితంగా యెహోవా పరిజ్ఞానంతో నిండిపోతుంది.",
+      "simpo": "యెషయా 11:9లో నమోదు చేయబడిన అటువంటి ఉత్కంఠభరితమైన ప్రవచనాల నెరవేర్పును తమ సొంత కళ్ళతో చూసే అవకాశం ఉంది, ఇది ఇలా చెబుతుందిః \"వారు [మానవజాతి] నా పవిత్ర పర్వతం మొత్తానికి ఎటువంటి హాని చేయరు లేదా ఎటువంటి విధ్వంసం కలిగించరు. ఎందుకంటే సముద్రం నీటితో కప్పబడి ఉన్నందున భూమి ఖచ్చితంగా యెహోవా జ్ఞానంతో నిండిపోతుంది\".",
+      "orpo": "యెషయా 11:9లో నమోదు చేయబడిన అటువంటి ఉత్కంఠభరితమైన ప్రవచనాల నెరవేర్పును తమ కళ్ళతో చూసే అవకాశం ఉంది, ఇది ఇలా చెబుతోందిః \"వారు [మానవజాతి] నా పవిత్ర పర్వతం మొత్తానికి హాని చేయరు లేదా ఏ విధమైన విధమైన విధమైన విధ్వంసం కలిగించరు. సముద్రం నీరుగా ఉండునట్లు భూమి యెహోవా పరిజ్ఞానంతో నిండిపోతుంది.\""
+    },
+    {
+      "english": "Four persons were named in this crime.",
+      "reference": "",
+      "sft": "ఈ నేరానికి సంబంధించి నలుగురు వ్యక్తులను గుర్తించబడ్డాయి.",
+      "dpo": "ఈ నేరానికి సంబంధించి నలుగురు వ్యక్తులను గుర్తించారు.",
+      "simpo": "ఈ నేరానికి సంబంధించి నలుగురు వ్యక్తులను గుర్తించారు.",
+      "orpo": "ఈ నేరానికి సంబంధించి నలుగురు వ్యక్తుల పేర్లను నమోదు చేశారు."
+    },
+    {
+      "english": "They demanded to take action against the hospital.",
+      "reference": "",
+      "sft": "ఈ ఆస్పత్రిపై చర్యలు తీసుకోవాలని వారు డిమాండ్ చేశారు.",
+      "dpo": "ఈ ఆస్పత్రిపై చర్యలు తీసుకోవాలని వారు డిమాండ్ చేశారు.",
+      "simpo": "ఈ ఆస్పత్రిపై చర్యలు తీసుకోవాలని వారు డిమాండ్ చేశారు.",
+      "orpo": "ఆస్పత్రిపై చర్యలు తీసుకోవాలని వారు డిమాండ్ చేశారు."
+    },
+    {
+      "english": "There is no problem of finances.",
+      "reference": "",
+      "sft": "ఆర్థికంగా ఎటువంటి సమస్య ఉండదు.",
+      "dpo": "ఆర్థికంగా ఎటువంటి సమస్య ఉండదు.",
+      "simpo": "ఆర్థికంగా ఎటువంటి సమస్య ఉండదు.",
+      "orpo": "ఆర్థికంగా ఎలాంటి సమస్య ఉండదు."
+    },
+    {
+      "english": "Non-Hindus are not permitted to enter the temple.",
+      "reference": "",
+      "sft": "హిందువులను ఆలయంలోకి అనుమతించరు.",
+      "dpo": "హిందువులు కానివారిని ఆలయంలోకి అనుమతించరు.",
+      "simpo": "హిందువులు కానివారిని ఆలయంలోకి అనుమతించరు.",
+      "orpo": "హిందువులు కానివారిని ఆలయంలోకి ప్రవేశించడానికి అనుమతించరు."
+    },
+    {
+      "english": "Its very scary.",
+      "reference": "",
+      "sft": "ఇది చాలా భయంకరమైనది.",
+      "dpo": "ఇది చాలా భయంకరమైనది.",
+      "simpo": "ఇది చాలా భయంకరంగా ఉంటుంది.",
+      "orpo": "ఇది చాలా భయానకంగా ఉంటుంది."
+    },
+    {
+      "english": "Vijay Deverakonda is gearing up for the release of his upcoming movie.",
+      "reference": "",
+      "sft": "విజయ్ దేవరకొండ తన తదుపరి చిత్రం విడుదలకు సిద్ధమవుతున్నాడు.",
+      "dpo": "విజయ్ దేవరకొండ తన తదుపరి చిత్రం విడుదలకు సిద్ధమవుతున్నాడు.",
+      "simpo": "విజయ్ దేవరకొండ తన తదుపరి చిత్రం విడుదలకు సిద్ధమవుతున్నాడు.",
+      "orpo": "విజయ్ దేవరకొండ తన తదుపరి చిత్రం విడుదలకు సిద్ధమవుతున్నాడు."
+    },
+    {
+      "english": "Steps to quit smoking",
+      "reference": "",
+      "sft": "ధూమపానం మానేయడానికి చర్యలు",
+      "dpo": "ధూమపానం విడిచిపెట్టడానికి చర్యలు",
+      "simpo": "ధూమపానం మానేయడానికి చర్యలు",
+      "orpo": "ధూమపానం విడిచిపెట్టడానికి చర్యలు"
+    },
+    {
+      "english": "What is the change?",
+      "reference": "",
+      "sft": "మార్పు ఏమిటి?",
+      "dpo": "మార్పు ఏమిటి?",
+      "simpo": "మార్పు ఏమిటి?",
+      "orpo": "మార్పు ఏమిటి?"
+    },
+    {
+      "english": "The process is divided into two steps.",
+      "reference": "",
+      "sft": "ఈ ప్రక్రియ రెండు దశలుగా విభజించబడింది.",
+      "dpo": "ఈ ప్రక్రియ రెండు దశలుగా విభజించబడింది.",
+      "simpo": "ఈ ప్రక్రియను రెండు దశలుగా విభజించారు.",
+      "orpo": "ఈ ప్రక్రియను రెండు దశలుగా విభజించారు."
+    },
+    {
+      "english": "A formal notification has been issued.",
+      "reference": "",
+      "sft": "దీనికి సంబంధించి అధికారిక ప్రకటన విడుదల చేశారు.",
+      "dpo": "దీనికి సంబంధించిన అధికారిక ప్రకటన విడుదల చేశారు.",
+      "simpo": "దీనికి సంబంధించి అధికారిక ప్రకటన విడుదల చేశారు.",
+      "orpo": "దీనికి సంబంధించిన అధికారిక ప్రకటన వెలువడింది."
+    },
+    {
+      "english": "Priyanka should be in India for her next Hindi film, Bharat, which will also star Salman Khan.",
+      "reference": "",
+      "sft": "సల్మాన్ ఖాన్ కూడా నటించిన తన తదుపరి హిందీ చిత్రం భారత్ కోసం ప్రియాంకా భారతదేశంలో ఉండాలి.",
+      "dpo": "సల్మాన్ ఖాన్ కూడా నటించబోయే తన తదుపరి హిందీ చిత్రం భారత్ కోసం ప్రియాంకా భారతదేశంలో ఉండాలి.",
+      "simpo": "సల్మాన్ ఖాన్ కూడా నటించబోయే తన తదుపరి హిందీ చిత్రం భారత్ కోసం ప్రియాంకా భారతదేశంలో ఉండాలి.",
+      "orpo": "సల్మాన్ ఖాన్ కూడా నటించబోయే తన తదుపరి హిందీ చిత్రం భారత్ కోసం ప్రియాంకా భారతదేశంలో ఉండాలి."
+    },
+    {
+      "english": "New tenders for...",
+      "reference": "",
+      "sft": "కొత్త టెండర్...",
+      "dpo": "కొత్త టెండర్...",
+      "simpo": "కొత్త టెండర్లను...",
+      "orpo": "కొత్త టెండర్లను..."
+    },
+    {
+      "english": "And prices, of course.",
+      "reference": "",
+      "sft": "మరియు ధరలు, కోర్సు యొక్క,",
+      "dpo": "మరియు ధరలు, వాస్తవానికి.",
+      "simpo": "మరియు ధరలు, కోర్సు యొక్క,",
+      "orpo": "మరియు ధరలు, కోర్సు యొక్క."
+    },
+    {
+      "english": "But there are some caveats in this.",
+      "reference": "",
+      "sft": "కానీ ఇందులో కొన్ని షరతులు ఉన్నాయి.",
+      "dpo": "కానీ ఇందులో కొన్ని షరతులు ఉన్నాయి.",
+      "simpo": "కానీ ఇందులో కొన్ని షరతులు ఉన్నాయి.",
+      "orpo": "కానీ ఇందులో కొన్ని షరతులు ఉన్నాయి."
+    },
+    {
+      "english": "Agriculture is a state subject according to the Constitution.",
+      "reference": "",
+      "sft": "రాజ్యాంగం ప్రకారం వ్యవసాయం అనేది రాష్ట్రానికి సంబంధించిన విషయం.",
+      "dpo": "రాజ్యాంగం ప్రకారం వ్యవసాయం అనేది రాష్ట్రానికి సంబంధించిన విషయం.",
+      "simpo": "రాజ్యాంగం ప్రకారం వ్యవసాయం అనేది రాష్ట్రానికి సంబంధించిన విషయం.",
+      "orpo": "రాజ్యాంగం ప్రకారం వ్యవసాయం అనేది రాష్ట్ర విషయంగా ఉంది."
+    },
+    {
+      "english": "Errabelli gave the explanation after there were reports that he had secretly met KCR",
+      "reference": "",
+      "sft": "తాను రహస్యంగా కెసిఆర్ ని కలుసుకున్నానని వార్తలు వచ్చిన తరువాత ఎర్రబెల్లి వివరణ ఇచ్చారు",
+      "dpo": "తాను రహస్యంగా కెసిఆర్ ని కలుసుకున్నానని వార్తలు వచ్చిన తరువాత ఎర్రబెల్లి వివరణ ఇచ్చారు",
+      "simpo": "తాను రహస్యంగా కెసిఆర్ ని కలుసుకున్నానని వార్తలు వచ్చిన తరువాత ఎర్రాబెల్లి వివరణ ఇచ్చారు",
+      "orpo": "తాను రహస్యంగా కెసిఆర్ ను కలుసుకున్నానని వార్తలు వచ్చిన తరువాత ఎర్రబెల్లి వివరణ ఇచ్చారు"
+    },
+    {
+      "english": "It was, not literal eye disease, but spiritual blindness that needed treatment.",
+      "reference": "",
+      "sft": "ఇది అక్షరాస్యతతో కూడిన కంటి వ్యాధి కాదు, కానీ ఆధ్యాత్మిక అంధత్వానికి చికిత్స అవసరం.",
+      "dpo": "ఇది అక్షరాస్యత కలిగిన కంటి వ్యాధి కాదు, కానీ ఆధ్యాత్మిక అంధత్వానికి చికిత్స అవసరం.",
+      "simpo": "ఇది అక్షరాలా కంటి వ్యాధి కాదు, కానీ ఆధ్యాత్మిక అంధత్వానికి చికిత్స అవసరం.",
+      "orpo": "అక్షరాలా కంటి వ్యాధి కాదు, ఆధ్యాత్మిక అంధత్వం చికిత్స అవసరం."
+    },
+    {
+      "english": "The hatchback features a large front grille, LED headlamps and sleek LED Daytime Running Lights (DRL)",
+      "reference": "",
+      "sft": "ఈ హ్యాచ్బ్యాక్ లో పెద్ద ఫ్రంట్ గ్రిల్, ఎల్ఈడీ హెడ్ల్యాంప్లు మరియు సొగసైన ఎల్ఈడీ డేటైమ్ రన్నింగ్ లైట్స్ (డిఆర్ఎల్) ఉన్నాయి",
+      "dpo": "ఈ హ్యాచ్బ్యాక్ ముందు భాగంలో పెద్ద గ్రిల్, ఎల్ఈడీ హెడ్ల్యాంప్లు మరియు సొగసైన ఎల్ఈడీ డేటైమ్ రన్నింగ్ లైట్లు (డిఆర్ఎల్) కలిగి ఉంటుంది",
+      "simpo": "ఈ హ్యాచ్బ్యాక్ ముందు భాగంలో పెద్ద గ్రిల్, ఎల్ఈడీ హెడ్ల్యాంప్లు మరియు సొగసైన ఎల్ఈడీ డేటైమ్ రన్నింగ్ లైట్స్ (డిఆర్ఎల్) కలిగి ఉంటుంది",
+      "orpo": "ఈ హ్యాచ్బ్యాక్ ముందు భాగంలో పెద్ద గ్రిల్, ఎల్ఈడీ హెడ్ల్యాంప్లు మరియు సొగసైన ఎల్ఈడీ డేటైమ్ రన్నింగ్ లైట్లు (డిఆర్ఎల్) ఉన్నాయి"
+    },
+    {
+      "english": "Many safety measures are being taken around the world to fight the coronavirus.",
+      "reference": "",
+      "sft": "కరోనావైరస్ తో పోరాడటానికి ప్రపంచవ్యాప్తంగా అనేక భద్రతా చర్యలు తీసుకుంటున్నారు.",
+      "dpo": "కరోనావైరస్ తో పోరాడటానికి ప్రపంచవ్యాప్తంగా అనేక భద్రతా చర్యలు తీసుకుంటున్నారు.",
+      "simpo": "కరోనావైరస్ తో పోరాడటానికి ప్రపంచవ్యాప్తంగా అనేక భద్రతా చర్యలు తీసుకుంటున్నారు.",
+      "orpo": "కరోనావైరస్ తో పోరాడటానికి ప్రపంచవ్యాప్తంగా అనేక భద్రతా చర్యలు తీసుకుంటున్నారు."
+    },
+    {
+      "english": "3 lakh crores.",
+      "reference": "",
+      "sft": "3 లక్షల కోట్లు.",
+      "dpo": "3 లక్షల కోట్లు.",
+      "simpo": "3 లక్షల కోట్లు.",
+      "orpo": "3 లక్షల కోట్లు."
+    },
+    {
+      "english": "When is a child adoptable?",
+      "reference": "",
+      "sft": "ఒక బిడ్డను ఎప్పుడు దత్తత తీసుకుంటారు?",
+      "dpo": "ఒక బిడ్డను ఎప్పుడు దత్తత తీసుకుంటారు?",
+      "simpo": "ఒక బిడ్డను ఎప్పుడు దత్తత తీసుకుంటారు?",
+      "orpo": "బిడ్డను ఎప్పుడు దత్తత తీసుకుంటారు?"
+    },
+    {
+      "english": "Global icon Priyanka Chopra and husband Nick Jonas' Holi was also a family affair in Pune.",
+      "reference": "",
+      "sft": "గ్లోబల్ ఐకాన్ అయిన ప్రియాంకా చోప్రా మరియు భర్త నిక్ జోనాస్ యొక్క హోలీ కూడా పూణేలో కుటుంబ వ్యవహారం జరిగింది.",
+      "dpo": "గ్లోబల్ ఐకాన్ అయిన ప్రియాంకా చోప్రా మరియు భర్త నిక్ జోనాస్ యొక్క హోలీ కూడా పూణేలో కుటుంబ వ్యవహారం జరిగింది.",
+      "simpo": "గ్లోబల్ ఐకాన్ అయిన ప్రియాంకా చోప్రా మరియు భర్త నిక్ జోనాస్ యొక్క హోలీ కూడా పూణేలో కుటుంబ వ్యవహారం జరిగింది.",
+      "orpo": "గ్లోబల్ ఐకాన్ అయిన ప్రియాంక చోప్రా మరియు భర్త నిక్ జోనాస్ హోలీ కూడా పూణేలో కుటుంబ వ్యవహారం జరిగింది."
+    },
+    {
+      "english": "2019 Lok Sabha election is coming ahead.",
+      "reference": "",
+      "sft": "2019 లోక్ సభ ఎన్నికలు సమీపిస్తున్నాయి.",
+      "dpo": "2019 లోక్ సభ ఎన్నికలు సమీపిస్తున్నాయి.",
+      "simpo": "2019 లోక్సభ ఎన్నికలు సమీపిస్తున్నాయి.",
+      "orpo": "2019 లోక్ సభ ఎన్నికలు సమీపిస్తున్నాయి."
+    },
+    {
+      "english": "{ $name } Container Preferences",
+      "reference": "",
+      "sft": "{$పెయర్} కంటైనర్ ప్రాధాన్యతలు",
+      "dpo": "{$పెయర్} కంటైనర్ ప్రాధాన్యతలు",
+      "simpo": "{$పెయర్} కంటైనర్ ప్రాధాన్యతలు",
+      "orpo": "కంటైనర్ ప్రాధాన్యతలు {$పెయర్}"
+    },
+    {
+      "english": "the god lakshanna ,gunna,the shapes has given in different namas",
+      "reference": "",
+      "sft": "దేవత లక్ష్మణం, గున్న, ఆకారాలు వేర్వేరు నామాలలో ఇవ్వబడ్డాయి",
+      "dpo": "దేవత లక్ష్మణం, గున్న, ఆకారాలు వేర్వేరు నామాలలో ఇవ్వబడ్డాయి",
+      "simpo": "దేవత లక్ష్మణం, గున్న, ఆకారాలు వేర్వేరు నామాలలో ఇవ్వబడ్డాయి",
+      "orpo": "దేవత లక్ష్మణం, గుణ, ఆకారాలు వేర్వేరు నామాలలో ఇవ్వబడ్డాయి"
+    },
+    {
+      "english": "Feeling the pain",
+      "reference": "",
+      "sft": "నొప్పి అనుభూతి",
+      "dpo": "నొప్పి అనుభూతి",
+      "simpo": "నొప్పి అనుభూతి",
+      "orpo": "నొప్పి అనుభూతి"
+    },
+    {
+      "english": "Even in India everyone was Hindu",
+      "reference": "",
+      "sft": "భారతదేశంలో కూడా ప్రతి ఒక్కరూ హిందువులు",
+      "dpo": "భారతదేశంలో కూడా ప్రతి ఒక్కరూ హిందువులు",
+      "simpo": "భారతదేశంలో కూడా ప్రతి ఒక్కరూ హిందువులుగా ఉన్నారు",
+      "orpo": "భారతదేశంలో కూడా ప్రతి ఒక్కరూ హిందువులే"
+    },
+    {
+      "english": "But that has not been implemented.",
+      "reference": "",
+      "sft": "కానీ అది అమలు కాలేదు.",
+      "dpo": "కానీ అది అమలు కాలేదు.",
+      "simpo": "కానీ అది అమలు కాలేదు.",
+      "orpo": "కానీ అది అమలు కాలేదు."
+    },
+    {
+      "english": "Scored 82.",
+      "reference": "",
+      "sft": "82 పరుగులు చేశాడు.",
+      "dpo": "82 పరుగులు చేశాడు.",
+      "simpo": "82 పరుగులు చేశాడు.",
+      "orpo": "82 పరుగులు చేసింది."
+    },
+    {
+      "english": "Aadhaar on arrival for NRIs with Indian passport: Nirmala Sitharaman",
+      "reference": "",
+      "sft": "భారతీయ పాస్పోర్ట్ తో ఎన్ఆర్ఐలకు వచ్చినప్పుడు ఆధార్తో వ్యవహరించండిః నిర్మలా సీతారామన్",
+      "dpo": "భారతీయ పాస్పోర్ట్ కలిగి ఉన్న ఎన్ఆర్ఐలకు వచ్చినప్పుడు ఆధార్తో వ్యవహరించండిః నిర్మలా సీతారామన్",
+      "simpo": "భారతీయ పాస్పోర్ట్ కలిగి ఉన్న ఎన్ఆర్ఐలకు వచ్చినప్పుడు ఆధార్తో వ్యవహరించండిః నిర్మలా సీతారామన్",
+      "orpo": "భారతీయ పాస్పోర్టుతో ఎన్ఆర్ఐలు వచ్చినప్పుడు ఆధార్కార్డుః నిర్మలా సీతారామన్"
+    },
+    {
+      "english": "Meanwhile, Fire TV Stick Lite is a new, even more affordable way to begin streaming in full HD.",
+      "reference": "",
+      "sft": "ఇంతలో, ఫైర్ టీవీ స్టిక్ లైట్ అనేది పూర్తి హెచ్డిలో ప్రసారం ప్రారంభించడానికి కొత్త, మరింత సరసమైన మార్గం.",
+      "dpo": "ఇంతలో, ఫైర్ టీవీ స్టిక్ లైట్ అనేది పూర్తి హెచ్డిలో ప్రసారం ప్రారంభించడానికి కొత్త, మరింత సరసమైన మార్గం.",
+      "simpo": "ఇంతలో, ఫైర్ టీవీ స్టిక్ లైట్ అనేది పూర్తి హెచ్డిలో ప్రసారం ప్రారంభించడానికి కొత్త, మరింత సరసమైన మార్గం.",
+      "orpo": "ఇంతలో, ఫైర్ టీవీ స్టిక్ లైట్ అనేది పూర్తి హెచ్డిలో ప్రసారం ప్రారంభించడానికి కొత్త, మరింత సరసమైన మార్గం."
+    },
+    {
+      "english": "And yet it still shocks me how people get so uptight over it.",
+      "reference": "",
+      "sft": "ఇంకా ప్రజలు దానిపై ఎలా అంతగా మొగ్గు చూపుతారు అనేది నన్ను ఇంకా షాక్కు గురిచేస్తుంది.",
+      "dpo": "ఇంకా ప్రజలు దానిపై ఎలా అంతగా మొగ్గు చూపుతారు అనేది నన్ను ఇంకా షాక్కు గురి చేస్తుంది.",
+      "simpo": "ఇంకా ప్రజలు దానిపై ఎలా అంతగా మొగ్గు చూపుతారు అనేది నన్ను ఇప్పటికీ షాక్ చేస్తుంది.",
+      "orpo": "ఇంకా ప్రజలు దానిపై ఎలా అంతగా మొండిగా ఉంటారో అది నన్ను ఇంకా షాక్కు గురిచేస్తుంది."
+    },
+    {
+      "english": "Union Minister Bandaru Dattatreya inaugurated the function.",
+      "reference": "",
+      "sft": "కేంద్ర మంత్రి బండారు దత్తాత్రేయ ఈ కార్యక్రమాన్ని ప్రారంభించారు.",
+      "dpo": "కేంద్ర మంత్రి బండారు దత్తాత్రేయ ఈ కార్యక్రమాన్ని ప్రారంభించారు.",
+      "simpo": "కేంద్ర మంత్రి బండారు దత్తాత్రేయ ఈ కార్యక్రమాన్ని ప్రారంభించారు.",
+      "orpo": "కేంద్ర మంత్రి బండారు దత్తాత్రేయ ఈ కార్యక్రమాన్ని ప్రారంభించారు."
+    },
+    {
+      "english": "We are really close.",
+      "reference": "",
+      "sft": "మేము నిజంగా దగ్గరగా ఉన్నాము.",
+      "dpo": "మేము నిజంగా దగ్గరగా ఉన్నాము.",
+      "simpo": "మేము నిజంగా దగ్గరగా ఉన్నాము.",
+      "orpo": "మేము చాలా దగ్గరగా ఉన్నాము."
+    },
+    {
+      "english": "One was killed.",
+      "reference": "",
+      "sft": "ఒకరి ప్రాణాలు కోల్పోయారు.",
+      "dpo": "ఒకరిని చంపారు.",
+      "simpo": "ఒకరు మరణించారు.",
+      "orpo": "ఒకరిని చంపారు."
+    },
+    {
+      "english": "18,969.26 crores are yet to be received",
+      "reference": "",
+      "sft": "18, 969.26 కోట్లు ఇంకా అందాల్సి ఉంది",
+      "dpo": "18, 969.26 కోట్లు ఇంకా అందాల్సి ఉంది",
+      "simpo": "18, 969.26 కోట్లు ఇంకా అందాల్సి ఉంది",
+      "orpo": "18, 969.26 కోట్లు ఇంకా అందాల్సి ఉంది."
+    },
+    {
+      "english": "Bathroom design",
+      "reference": "",
+      "sft": "బాత్రూమ్ డిజైన్",
+      "dpo": "బాత్రూమ్ డిజైన్",
+      "simpo": "బాత్రూమ్ డిజైన్",
+      "orpo": "బాత్రూమ్ డిజైన్"
+    },
+    {
+      "english": "What to watch for",
+      "reference": "",
+      "sft": "దేని కోసం చూడాలి",
+      "dpo": "దేని కోసం చూడాలి",
+      "simpo": "దేని కోసం చూడాలి",
+      "orpo": "దేని కోసం చూడాలి"
+    },
+    {
+      "english": "Junior College.",
+      "reference": "",
+      "sft": "జూనియర్ కళాశాల.",
+      "dpo": "జూనియర్ కళాశాల.",
+      "simpo": "జూనియర్ కళాశాల.",
+      "orpo": "జూనియర్ కళాశాల."
+    },
+    {
+      "english": "This has made the farmers restive.",
+      "reference": "",
+      "sft": "దీంతో రైతులు తీవ్ర భయాందోళనకు గురయ్యారు.",
+      "dpo": "దీంతో రైతులు తీవ్ర భయాందోళనకు గురయ్యారు.",
+      "simpo": "ఇది రైతులను ఆందోళనకు గురిచేసింది.",
+      "orpo": "దీంతో రైతులు ఆందోళనకు గురయ్యారు."
+    },
+    {
+      "english": "Its not the first time that a mutual fund platform has forayed into offering NPS.",
+      "reference": "",
+      "sft": "మ్యూచువల్ ఫండ్ ప్లాట్ఫాం ఎన్పిఎస్ను అందించడం ఇదే మొదటిసారి కాదు.",
+      "dpo": "మ్యూచువల్ ఫండ్ ప్లాట్ఫాం ఎన్పిఎస్ను అందించడం ఇదే మొదటిసారి కాదు.",
+      "simpo": "మ్యూచువల్ ఫండ్ ప్లాట్ఫాం ఎన్పిఎస్ను అందించడం ఇదే మొదటిసారి కాదు.",
+      "orpo": "ఎన్పీఎస్ను అందించడానికి మ్యూచువల్ ఫండ్ ప్లాట్ఫాం ముందుకు రావడం ఇదే మొదటిసారి కాదు."
+    },
+    {
+      "english": "Ajit Pawars son Parth Pawar lost to Shiv Sena MP Shrirang Barne by 2.15 lakh votes in Maval constituency.",
+      "reference": "",
+      "sft": "మావల్ నియోజకవర్గంలో అజిత్ పవార్ కుమారుడు పార్థ్ పవార్ శివసేన ఎంపీ శ్రీరంగ్ బర్నే చేతిలో 2.15 లక్షల ఓట్ల తేడాతో ఓడిపోయారు.",
+      "dpo": "మావల్ నియోజకవర్గంలో అజిత్ పవార్ కుమారుడు పార్థ్ పవార్ శివసేన ఎంపీ శ్రీరాంగ్ బర్నే చేతిలో 2.15 లక్షల ఓట్ల తేడాతో ఓడిపోయారు.",
+      "simpo": "మావల్ నియోజకవర్గంలో అజిత్ పవార్ కుమారుడు పార్థ్ పవార్ శివసేన ఎంపీ శ్రీరాంగ్ బర్నే చేతిలో 2.15 లక్షల ఓట్ల తేడాతో ఓడిపోయారు.",
+      "orpo": "మావల్ నియోజకవర్గంలో అజిత్ పవార్ కుమారుడు పార్థ్ పవార్ శివసేన ఎంపీ శ్రీరంగ్ బర్నే చేతిలో 2.15 లక్షల ఓట్ల తేడాతో ఓడిపోయారు."
+    },
+    {
+      "english": "No stress whatsoever.",
+      "reference": "",
+      "sft": "ఎటువంటి ఒత్తిడి లేదు.",
+      "dpo": "ఎటువంటి ఒత్తిడి లేదు.",
+      "simpo": "ఎటువంటి ఒత్తిడి లేదు.",
+      "orpo": "ఎలాంటి ఒత్తిడి ఉండదు."
+    },
+    {
+      "english": "Police and firefighters have reached the spot.",
+      "reference": "",
+      "sft": "పోలీసులు, అగ్నిమాపక సిబ్బంది ఘటనా స్థలానికి చేరుకున్నారు.",
+      "dpo": "పోలీసులు, అగ్నిమాపక సిబ్బంది ఘటనా స్థలానికి చేరుకున్నారు.",
+      "simpo": "పోలీసులు, అగ్నిమాపక సిబ్బంది ఘటనా స్థలానికి చేరుకున్నారు.",
+      "orpo": "పోలీసులు, అగ్నిమాపక సిబ్బంది ఘటనా స్థలానికి చేరుకున్నారు."
+    },
+    {
+      "english": "What are the factors impacting prices?",
+      "reference": "",
+      "sft": "ధరలను ప్రభావితం చేసే కారకాలు ఏమిటి?",
+      "dpo": "ధరలను ప్రభావితం చేసే కారకాలు ఏమిటి?",
+      "simpo": "ధరలను ప్రభావితం చేసే అంశాలు ఏమిటి?",
+      "orpo": "ధరలను ప్రభావితం చేసే అంశాలు ఏమిటి?"
+    },
+    {
+      "english": "Current account deficit is rising.",
+      "reference": "",
+      "sft": "కరెంట్ అకౌంట్ లోటు పెరుగుతోంది.",
+      "dpo": "కరెంట్ అకౌంట్ లోటు పెరుగుతోంది.",
+      "simpo": "కరెంట్ అకౌంట్ లోటు పెరుగుతోంది.",
+      "orpo": "కరెంట్ అకౌంట్ లోటు పెరుగుతోంది."
+    },
+    {
+      "english": "Nacho is around 120 kilometers from the district headquarters",
+      "reference": "",
+      "sft": "నాచో జిల్లా ప్రధాన కార్యాలయం నుండి 120 కిలోమీటర్ల దూరంలో ఉంది",
+      "dpo": "నాచో జిల్లా ప్రధాన కార్యాలయం నుండి 120 కిలోమీటర్ల దూరంలో ఉంది",
+      "simpo": "నాచో జిల్లా ప్రధాన కార్యాలయం నుండి 120 కిలోమీటర్ల దూరంలో ఉంది",
+      "orpo": "నాచో జిల్లా ప్రధాన కార్యాలయం నుండి 120 కిలోమీటర్ల దూరంలో ఉంది"
+    },
+    {
+      "english": "The chargesheet also claims that these accused had hatched a conspiracy to assassinate Prime Minister Narendra Modi.",
+      "reference": "",
+      "sft": "ఈ నిందితులు ప్రధాని నరేంద్ర మోడీని హత్య చేయడానికి కుట్ర పన్నినట్లు కూడా ఛార్జ్ షీట్ పేర్కొంది.",
+      "dpo": "ఈ నిందితులు ప్రధాని నరేంద్ర మోడీని హత్య చేయడానికి కుట్ర పన్నినట్లు కూడా ఛార్జ్ షీట్ పేర్కొంది.",
+      "simpo": "ఈ నిందితులు ప్రధాని నరేంద్ర మోడీని హత్య చేయడానికి కుట్ర పన్నినట్లు కూడా ఛార్జ్ షీట్ పేర్కొంది.",
+      "orpo": "ఈ నిందితులు ప్రధాని నరేంద్ర మోడీని హత్య చేయడానికి కుట్ర పన్నారని కూడా ఛార్జ్షీట్ పేర్కొంది."
+    }
+  ],
+  "tournament_log": [
+    {
+      "english": "The Maestro Edge 125 is also equipped with Hero MotoCorp's i3S (idle-Start-Stop-System) technology, which helps improve the fuel efficiency",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; choosing 1 arbitrarily."
+    },
+    {
+      "english": "The Maestro Edge 125 is also equipped with Hero MotoCorp's i3S (idle-Start-Stop-System) technology, which helps improve the fuel efficiency",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “125లో” (without a space) follows natural Telugu orthography for attaching the numeral to the noun, making translation 2 read more fluently."
+    },
+    {
+      "english": "The Maestro Edge 125 is also equipped with Hero MotoCorp's i3S (idle-Start-Stop-System) technology, which helps improve the fuel efficiency",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “125లో” (without a space) is the more natural and idiomatic way a native Telugu writer would express “in the 125”."
+    },
+    {
+      "english": "The Maestro Edge 125 is also equipped with Hero MotoCorp's i3S (idle-Start-Stop-System) technology, which helps improve the fuel efficiency",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “125లో” (without a space) is the more natural and idiomatic way a native Telugu writer would express “in the 125”."
+    },
+    {
+      "english": "The Maestro Edge 125 is also equipped with Hero MotoCorp's i3S (idle-Start-Stop-System) technology, which helps improve the fuel efficiency",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "reason": "Winner: 2  \nReason: It conveys the exact meaning and uses more natural Telugu spacing by writing “125లో” as a single word, which is the typical native style."
+    },
+    {
+      "english": "The Maestro Edge 125 is also equipped with Hero MotoCorp's i3S (idle-Start-Stop-System) technology, which helps improve the fuel efficiency",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing the first as the winner."
+    },
+    {
+      "english": "is the question plaguing many.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English meaning, so either would win; choosing the first."
+    },
+    {
+      "english": "is the question plaguing many.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the meaning with correct grammar and natural phrasing, so either could win; choosing the first as the winner."
+    },
+    {
+      "english": "is the question plaguing many.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both convey the same meaning, but “ఇది … ప్రశ్న” reads more naturally and idiomatically in Telugu than the less common “అనేది … ప్రశ్న.”"
+    },
+    {
+      "english": "is the question plaguing many.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English fragment."
+    },
+    {
+      "english": "is the question plaguing many.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It uses the more natural demonstrative “ఇది” and forms a grammatically correct, idiomatic phrase, whereas “అనేది” is awkward without a preceding noun."
+    },
+    {
+      "english": "is the question plaguing many.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both are accurate, but “ఇది చాలా మందిని వేధిస్తున్న ప్రశ్న.” sounds more natural and idiomatic to native speakers than the less common “అనేది”."
+    },
+    {
+      "english": "I pray that those who are injured recover quickly.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; we select 1."
+    },
+    {
+      "english": "I pray that those who are injured recover quickly.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically correct Telugu."
+    },
+    {
+      "english": "I pray that those who are injured recover quickly.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, sound natural, and are grammatically correct, so either would win; we select 1."
+    },
+    {
+      "english": "I pray that those who are injured recover quickly.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, sound natural, and are grammatically correct, so either could win; we select 1."
+    },
+    {
+      "english": "I pray that those who are injured recover quickly.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, sound natural, and are grammatically correct, so either would win; we select 1."
+    },
+    {
+      "english": "I pray that those who are injured recover quickly.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first."
+    },
+    {
+      "english": "Indian tennis star Sania Mirza.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Indian tennis star Sania Mirza.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with proper Telugu grammar and natural phrasing, so either would be acceptable."
+    },
+    {
+      "english": "Indian tennis star Sania Mirza.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning, sounding natural, and using correct Telugu grammar, so either could win; we select the first."
+    },
+    {
+      "english": "Indian tennis star Sania Mirza.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with proper Telugu grammar and natural phrasing, so either would be acceptable."
+    },
+    {
+      "english": "Indian tennis star Sania Mirza.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Indian tennis star Sania Mirza.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Upcoming projects.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Upcoming projects” with proper Telugu grammar and natural phrasing, so either would win; we select the first."
+    },
+    {
+      "english": "Upcoming projects.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Upcoming projects” with proper Telugu grammar and natural phrasing, so either would win; we select the first."
+    },
+    {
+      "english": "Upcoming projects.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Upcoming projects” in natural, grammatically correct Telugu, so either would be acceptable."
+    },
+    {
+      "english": "Upcoming projects.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Upcoming projects” in natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Upcoming projects.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Upcoming projects” in natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Upcoming projects.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Upcoming projects” with proper Telugu grammar and natural phrasing, so either would win; we select the first."
+    },
+    {
+      "english": "Nothing over the top.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, so the first one is selected as the winner."
+    },
+    {
+      "english": "Nothing over the top.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, correctly rendering the literal meaning and using proper Telugu grammar, so either could win; we select the first by default."
+    },
+    {
+      "english": "Nothing over the top.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, correctly convey the literal meaning and are grammatically sound, so either could win; choosing the first by default."
+    },
+    {
+      "english": "Nothing over the top.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, so the first one is selected as the winner."
+    },
+    {
+      "english": "Nothing over the top.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and grammatically correct, so either could win; choosing the first as the winner."
+    },
+    {
+      "english": "Nothing over the top.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, so they score equally on accuracy, naturalness, and grammar; thus the first is selected as the winner."
+    },
+    {
+      "english": "He sings very well.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “He sings very well,” so either would win; choosing the first is arbitrary."
+    },
+    {
+      "english": "He sings very well.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “అతను చాలా బాగా పాడతాడు” uses the standard neutral pronoun and verb form, making it sound more natural and idiomatic for a typical Telugu speaker."
+    },
+    {
+      "english": "He sings very well.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys “He sings very well,” uses natural, idiomatic Telugu, and is grammatically correct."
+    },
+    {
+      "english": "He sings very well.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately conveys the neutral “He sings very well” without adding honorific nuance, and reads naturally in standard Telugu grammar."
+    },
+    {
+      "english": "He sings very well.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “He sings very well” in natural, grammatically correct Telugu, so either would be acceptable; we select the first as the winner."
+    },
+    {
+      "english": "He sings very well.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Translation 1 accurately conveys “He sings very well” with correct pronoun and verb form and sounds natural, while translation 2 has a typo (“ఆయన్”) and uses a less appropriate respectful verb form."
+    },
+    {
+      "english": "From fiscal irresponsibility to fiscal prudence , from high inflation to low inflation, from reckless lending creating Non performing assets to merit based lending, from infrastructure deficit to infrastructure surplus, from mis-managed urban growth to holistic and balanced growth and from physical to digital infrastructure",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It preserves the full meaning—including the shift to merit‑based lending—while translation 1 drops that element, making it less accurate."
+    },
+    {
+      "english": "From fiscal irresponsibility to fiscal prudence , from high inflation to low inflation, from reckless lending creating Non performing assets to merit based lending, from infrastructure deficit to infrastructure surplus, from mis-managed urban growth to holistic and balanced growth and from physical to digital infrastructure",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It retains the full original meaning—including the shift from reckless lending that creates non‑performing assets to merit‑based lending—while translation 1 reverses that relationship and omits the merit‑based lending part."
+    },
+    {
+      "english": "From fiscal irresponsibility to fiscal prudence , from high inflation to low inflation, from reckless lending creating Non performing assets to merit based lending, from infrastructure deficit to infrastructure surplus, from mis-managed urban growth to holistic and balanced growth and from physical to digital infrastructure",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It retains the full meaning—including “merit‑based lending”—while remaining grammatically correct and reasonably natural, whereas Translation 1 omits that key element."
+    },
+    {
+      "english": "From fiscal irresponsibility to fiscal prudence , from high inflation to low inflation, from reckless lending creating Non performing assets to merit based lending, from infrastructure deficit to infrastructure surplus, from mis-managed urban growth to holistic and balanced growth and from physical to digital infrastructure",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It uses the more natural passive phrasing “తప్పుగా నిర్వహించబడుతున్న” for “mis‑managed”, preserving the intended meaning better than the active form in translation 2."
+    },
+    {
+      "english": "From fiscal irresponsibility to fiscal prudence , from high inflation to low inflation, from reckless lending creating Non performing assets to merit based lending, from infrastructure deficit to infrastructure surplus, from mis-managed urban growth to holistic and balanced growth and from physical to digital infrastructure",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 preserves the original meaning more accurately and uses correct, natural Telugu phrasing and grammar, whereas Translation 1 contains duplicated “from‑to” markers, awkward constructions, and an ungrammatical phrase for “physical to digital infrastructure.”"
+    },
+    {
+      "english": "From fiscal irresponsibility to fiscal prudence , from high inflation to low inflation, from reckless lending creating Non performing assets to merit based lending, from infrastructure deficit to infrastructure surplus, from mis-managed urban growth to holistic and balanced growth and from physical to digital infrastructure",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It more faithfully preserves the original structure and uses more natural, grammatically correct Telugu phrasing, whereas Translation 1 contains confusing repetitions and awkward constructions."
+    },
+    {
+      "english": "But that comes with experience.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "But that comes with experience.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "But that comes with experience.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “But that comes with experience,” so either would work; choosing the first is arbitrary."
+    },
+    {
+      "english": "But that comes with experience.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “But that comes with experience,” so either would work; choosing the first is arbitrary."
+    },
+    {
+      "english": "But that comes with experience.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "But that comes with experience.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “But that comes with experience,” so either would be correct; choosing the first is arbitrary."
+    },
+    {
+      "english": "After that many developments had taken place in this region.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically sound Telugu."
+    },
+    {
+      "english": "After that many developments had taken place in this region.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning in natural, grammatically sound Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "After that many developments had taken place in this region.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically sound Telugu."
+    },
+    {
+      "english": "After that many developments had taken place in this region.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, read naturally, and are grammatically correct, so either could win; choosing the first is arbitrary."
+    },
+    {
+      "english": "After that many developments had taken place in this region.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, read naturally, and are grammatically correct, so either could win; choosing the first is arbitrary."
+    },
+    {
+      "english": "After that many developments had taken place in this region.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning in natural, grammatically sound Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "I simply dont want to.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and convey the intended meaning with correct, natural Telugu."
+    },
+    {
+      "english": "I simply dont want to.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “I simply don’t want to.” so either works, and we select the first as the winner."
+    },
+    {
+      "english": "I simply dont want to.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It more accurately conveys “I don’t want to” and reads naturally, whereas the second version is awkward and ungrammatical."
+    },
+    {
+      "english": "I simply dont want to.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey “I simply don’t want to,” and are natural and grammatically correct Telugu, so either would win."
+    },
+    {
+      "english": "I simply dont want to.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the intended “I simply don’t want to” meaning, while the first translation changes the sense to “I don’t like it.”"
+    },
+    {
+      "english": "I simply dont want to.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It retains the meaning of “I don’t want to,” while Translation 1 shifts the sense to “I don’t like it,” even though Translation 2 is slightly less idiomatic."
+    },
+    {
+      "english": "Those who live by Gods Word have the prospect of seeing with their own eyes the fulfillment of such thrilling prophecies as the one recorded at Isaiah 11: 9, which says: They [humankind] will not do any harm or cause any ruin in all my holy mountain. because the earth will certainly be filled with the knowledge of Jehovah as the waters are covering the very sea.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It fully preserves the original meaning and includes the proper closing quotation mark and punctuation, making it slightly more accurate and polished than Translation 2."
+    },
+    {
+      "english": "Those who live by Gods Word have the prospect of seeing with their own eyes the fulfillment of such thrilling prophecies as the one recorded at Isaiah 11: 9, which says: They [humankind] will not do any harm or cause any ruin in all my holy mountain. because the earth will certainly be filled with the knowledge of Jehovah as the waters are covering the very sea.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately renders “knowledge of Jehovah” with the appropriate term “జ్ఞానం” while maintaining natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Those who live by Gods Word have the prospect of seeing with their own eyes the fulfillment of such thrilling prophecies as the one recorded at Isaiah 11: 9, which says: They [humankind] will not do any harm or cause any ruin in all my holy mountain. because the earth will certainly be filled with the knowledge of Jehovah as the waters are covering the very sea.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Translation 1 accurately preserves the original meaning, reads naturally, and is grammatically correct, while Translation 2 has repetitive wording and awkward phrasing that distort the meaning."
+    },
+    {
+      "english": "Those who live by Gods Word have the prospect of seeing with their own eyes the fulfillment of such thrilling prophecies as the one recorded at Isaiah 11: 9, which says: They [humankind] will not do any harm or cause any ruin in all my holy mountain. because the earth will certainly be filled with the knowledge of Jehovah as the waters are covering the very sea.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It more accurately renders “knowledge of Jehovah” with “యెహోవా జ్ఞానంతో,” preserving the original meaning without the slightly altered nuance of “పరిజ్ఞానం.”"
+    },
+    {
+      "english": "Those who live by Gods Word have the prospect of seeing with their own eyes the fulfillment of such thrilling prophecies as the one recorded at Isaiah 11: 9, which says: They [humankind] will not do any harm or cause any ruin in all my holy mountain. because the earth will certainly be filled with the knowledge of Jehovah as the waters are covering the very sea.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys the original meaning with correct grammar and reads naturally, whereas Translation 2 contains redundant wording and awkward phrasing."
+    },
+    {
+      "english": "Those who live by Gods Word have the prospect of seeing with their own eyes the fulfillment of such thrilling prophecies as the one recorded at Isaiah 11: 9, which says: They [humankind] will not do any harm or cause any ruin in all my holy mountain. because the earth will certainly be filled with the knowledge of Jehovah as the waters are covering the very sea.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It faithfully preserves the original meaning with correct grammar and natural phrasing, while translation 2 has repeated words, awkward constructions, and grammatical errors."
+    },
+    {
+      "english": "Four persons were named in this crime.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It is grammatically correct and naturally phrased, while still conveying the same meaning as the English sentence."
+    },
+    {
+      "english": "Four persons were named in this crime.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately retains the passive meaning “were named” while being grammatically correct and naturally phrased in Telugu."
+    },
+    {
+      "english": "Four persons were named in this crime.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the original meaning of “four persons were identified/named” without adding extra information, whereas translation 2 introduces the notion of “recording names” and an implicit agent."
+    },
+    {
+      "english": "Four persons were named in this crime.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, but they use “గుర్తించారు” (identified) instead of “named,” so they don’t fully preserve the original meaning."
+    },
+    {
+      "english": "Four persons were named in this crime.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys the original meaning without adding extra nuance and sounds natural in Telugu."
+    },
+    {
+      "english": "Four persons were named in this crime.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys “four persons were identified” without adding the extra nuance of “recording names,” and reads naturally with correct Telugu grammar."
+    },
+    {
+      "english": "They demanded to take action against the hospital.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; we select 1 arbitrarily."
+    },
+    {
+      "english": "They demanded to take action against the hospital.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the original meaning with correct grammar and natural phrasing, so either would win; choosing the first as the winner."
+    },
+    {
+      "english": "They demanded to take action against the hospital.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately conveys “the hospital” without the unnecessary demonstrative “ఈ” while remaining grammatically correct and natural in Telugu."
+    },
+    {
+      "english": "They demanded to take action against the hospital.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first is arbitrary."
+    },
+    {
+      "english": "They demanded to take action against the hospital.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately conveys the original meaning without the unnecessary demonstrative “ఈ,” making it both faithful and natural."
+    },
+    {
+      "english": "They demanded to take action against the hospital.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the original meaning without the unnecessary demonstrative “ఈ,” making it more accurate while remaining natural and grammatically correct."
+    },
+    {
+      "english": "There is no problem of finances.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately translates the meaning, reads naturally in Telugu, and uses correct grammar and script."
+    },
+    {
+      "english": "There is no problem of finances.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “There is no problem of finances.”."
+    },
+    {
+      "english": "There is no problem of finances.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both are accurate and grammatical, but “ఎటువంటి” is the more idiomatic choice in negative statements, making translation 1 sound slightly more natural to native speakers."
+    },
+    {
+      "english": "There is no problem of finances.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately translates the meaning, reads naturally in Telugu, and uses correct grammar and script."
+    },
+    {
+      "english": "There is no problem of finances.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both are accurate and grammatical, but “ఎలాంటి” is the more natural, commonly used word for “any” in everyday Telugu."
+    },
+    {
+      "english": "There is no problem of finances.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “ఆర్థికంగా ఎలాంటి సమస్య ఉండదు.” sounds more natural and commonly used by native speakers."
+    },
+    {
+      "english": "Non-Hindus are not permitted to enter the temple.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys that people who are not Hindus are prohibited from entering the temple, while the first translation reverses the meaning."
+    },
+    {
+      "english": "Non-Hindus are not permitted to enter the temple.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys that non‑Hindus are prohibited from entering the temple, while the first translation reverses the meaning."
+    },
+    {
+      "english": "Non-Hindus are not permitted to enter the temple.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys that non‑Hindus are prohibited from entering the temple, while the first translation reverses the meaning."
+    },
+    {
+      "english": "Non-Hindus are not permitted to enter the temple.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning in natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Non-Hindus are not permitted to enter the temple.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the exact meaning concisely and reads more naturally in Telugu while being grammatically correct."
+    },
+    {
+      "english": "Non-Hindus are not permitted to enter the temple.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the exact meaning concisely and naturally, using correct Telugu grammar without the redundant “to enter” phrase."
+    },
+    {
+      "english": "Its very scary.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “Its very scary,” so either would do; choosing the first as the winner."
+    },
+    {
+      "english": "Its very scary.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It directly conveys “It’s very scary” without the extra future/habitual nuance of “ఉంటుంది,” making it more accurate and natural for a native speaker."
+    },
+    {
+      "english": "Its very scary.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys “It’s very scary” with natural, grammatically correct phrasing, whereas the second adds an unnecessary verb form and feels less idiomatic."
+    },
+    {
+      "english": "Its very scary.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It directly conveys “It is very scary” with correct adjective usage, while the second adds a verb form that changes the nuance and feels less natural."
+    },
+    {
+      "english": "Its very scary.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It directly and naturally conveys “It’s very scary” without the unnecessary future‑tense nuance present in translation 2."
+    },
+    {
+      "english": "Its very scary.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys “It’s very scary,” uses the more common and natural adjective “భయంకరంగా,” and is grammatically correct."
+    },
+    {
+      "english": "Vijay Deverakonda is gearing up for the release of his upcoming movie.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the English sentence, so either would win; I select 1."
+    },
+    {
+      "english": "Vijay Deverakonda is gearing up for the release of his upcoming movie.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically sound Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "Vijay Deverakonda is gearing up for the release of his upcoming movie.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, read naturally, and are grammatically correct, so either could win; I select 1."
+    },
+    {
+      "english": "Vijay Deverakonda is gearing up for the release of his upcoming movie.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "Vijay Deverakonda is gearing up for the release of his upcoming movie.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; choosing 1 as the winner."
+    },
+    {
+      "english": "Vijay Deverakonda is gearing up for the release of his upcoming movie.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, read naturally, and are grammatically correct, so either could win; I select 1."
+    },
+    {
+      "english": "Steps to quit smoking",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “ధూమపానం విడిచిపెట్టడానికి చర్యలు” uses the more idiomatic and natural expression for “quit smoking” in Telugu."
+    },
+    {
+      "english": "Steps to quit smoking",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, are natural and grammatically correct, so either could win; we select the first."
+    },
+    {
+      "english": "Steps to quit smoking",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “ధూమపానం విడిచిపెట్టడానికి చర్యలు” uses the more idiomatic and natural expression for “quit smoking” in Telugu."
+    },
+    {
+      "english": "Steps to quit smoking",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the more idiomatic verb “మానేయడానికి” for quitting, making the phrase sound more natural while preserving the original meaning and correct grammar."
+    },
+    {
+      "english": "Steps to quit smoking",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “Steps to quit smoking” in Telugu."
+    },
+    {
+      "english": "Steps to quit smoking",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both are accurate, but “ధూమపానం విడిచిపెట్టడానికి చర్యలు” uses the more natural and commonly used phrase “విడిచిపెట్టడానికి” for “to quit,” making it sound more like native Telugu."
+    },
+    {
+      "english": "What is the change?",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “What is the change?” in accurate, natural, and grammatically correct Telugu, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "What is the change?",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “What is the change?” in accurate, natural, and grammatically correct Telugu, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "What is the change?",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “What is the change?” in accurate, natural, and grammatically correct Telugu, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "What is the change?",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “What is the change?” in accurate, natural, and grammatically correct Telugu, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "What is the change?",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “What is the change?” in natural, grammatical Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "What is the change?",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “What is the change?” in natural, grammatical Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "The process is divided into two steps.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically sound Telugu."
+    },
+    {
+      "english": "The process is divided into two steps.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys the passive state “is divided” without implying an agent, and reads naturally with correct grammar."
+    },
+    {
+      "english": "The process is divided into two steps.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys the passive state “is divided” without implying an agent, and reads naturally with correct grammar."
+    },
+    {
+      "english": "The process is divided into two steps.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately retains the passive meaning of the original sentence, uses natural phrasing, and follows correct Telugu grammar."
+    },
+    {
+      "english": "The process is divided into two steps.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys the passive state “is divided” without implying an agent, and reads naturally with correct grammar."
+    },
+    {
+      "english": "The process is divided into two steps.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically sound Telugu."
+    },
+    {
+      "english": "A formal notification has been issued.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the proper adjectival form “సంబంధించిన,” resulting in a more natural, grammatically smooth Telugu sentence."
+    },
+    {
+      "english": "A formal notification has been issued.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, and while grammatically correct and natural, they add the unnecessary phrase “దీనికి సంబంధించి” and use “విడుదల చేశారు” instead of a more precise “జారీ చేశారు,” slightly reducing accuracy."
+    },
+    {
+      "english": "A formal notification has been issued.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It correctly conveys the issuance with proper grammar and natural phrasing, while translation 2 uses an incorrect verb form (“వెలుపడింది”) making it less grammatical and natural."
+    },
+    {
+      "english": "A formal notification has been issued.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both add an unnecessary “related to this” phrase, but the wording in Translation 2 (“దీనికి సంబంధించి”) flows more naturally for a native speaker while remaining grammatically correct."
+    },
+    {
+      "english": "A formal notification has been issued.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It uses the correct verb form “విడుదల చేశారు” and reads naturally, whereas translation 2 contains a misspelling (“వెలుపడింది”) and is less grammatically sound."
+    },
+    {
+      "english": "A formal notification has been issued.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the meaning with a natural, passive construction that aligns better with the original sentence."
+    },
+    {
+      "english": "Priyanka should be in India for her next Hindi film, Bharat, which will also star Salman Khan.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately conveys that Salman Khan will also star in the upcoming film (future tense) and reads naturally with correct Telugu grammar."
+    },
+    {
+      "english": "Priyanka should be in India for her next Hindi film, Bharat, which will also star Salman Khan.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately conveys that Salman Khan will also star (future tense) in Priyanka’s next Hindi film “Bharat” and reads naturally with correct Telugu grammar."
+    },
+    {
+      "english": "Priyanka should be in India for her next Hindi film, Bharat, which will also star Salman Khan.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys the future involvement of Salman Khan, preserving the original meaning, while the first version uses past tense and thus loses accuracy."
+    },
+    {
+      "english": "Priyanka should be in India for her next Hindi film, Bharat, which will also star Salman Khan.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first is arbitrary."
+    },
+    {
+      "english": "Priyanka should be in India for her next Hindi film, Bharat, which will also star Salman Khan.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing 1 arbitrarily."
+    },
+    {
+      "english": "Priyanka should be in India for her next Hindi film, Bharat, which will also star Salman Khan.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing 1 arbitrarily."
+    },
+    {
+      "english": "New tenders for...",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “New tenders for…”, so either would be correct."
+    },
+    {
+      "english": "New tenders for...",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys the plural “tenders” and uses natural, grammatically correct Telugu phrasing."
+    },
+    {
+      "english": "New tenders for...",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys the plural “tenders” and uses appropriate Telugu grammar, whereas Translation 1 is singular and loses that nuance."
+    },
+    {
+      "english": "New tenders for...",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys the plural “tenders” from the English, uses proper Telugu grammar, and sounds natural to a native speaker."
+    },
+    {
+      "english": "New tenders for...",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys the plural “tenders” from the English, preserving meaning and using proper Telugu grammar."
+    },
+    {
+      "english": "New tenders for...",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, so either would work; selecting the first as the winner."
+    },
+    {
+      "english": "And prices, of course.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 correctly conveys the aside about prices with a natural Telugu phrase, while Translation 1 mistakenly uses “కోర్సు” (course) instead of “of course,” making it inaccurate."
+    },
+    {
+      "english": "And prices, of course.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and incorrectly add “of the course,” which is not in the original, making them inaccurate, unnatural, and grammatically off; thus the first is chosen by default."
+    },
+    {
+      "english": "And prices, of course.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and incorrectly add “of the course,” which is not in the original, making them inaccurate and unnatural, but 1 is chosen as the default winner."
+    },
+    {
+      "english": "And prices, of course.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Translation 1 preserves the meaning and is grammatically correct, whereas translation 2 is nonsensical."
+    },
+    {
+      "english": "And prices, of course.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It roughly conveys “and prices, of course” while the second adds unrelated meaning (“of the course”)."
+    },
+    {
+      "english": "And prices, of course.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and incorrectly add “of the course,” which is not in the original, making them inaccurate and unnatural, but since they are the same, we select the first as the winner."
+    },
+    {
+      "english": "But there are some caveats in this.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, read naturally, and are grammatically correct, so either could win; we select the first."
+    },
+    {
+      "english": "But there are some caveats in this.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning with proper grammar and natural phrasing, so either would win; we select the first by default."
+    },
+    {
+      "english": "But there are some caveats in this.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and convey the meaning correctly with natural, grammatically sound Telugu."
+    },
+    {
+      "english": "But there are some caveats in this.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning with proper grammar, so either could win; choosing the first is arbitrary."
+    },
+    {
+      "english": "But there are some caveats in this.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the meaning with natural, grammatically correct Telugu."
+    },
+    {
+      "english": "But there are some caveats in this.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, so they score equally on accuracy, naturalness, and grammar; selecting the first as the winner."
+    },
+    {
+      "english": "Agriculture is a state subject according to the Constitution.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, preserving the meaning accurately, sounding natural, and using correct Telugu grammar, so either could win; we select the first as the winner."
+    },
+    {
+      "english": "Agriculture is a state subject according to the Constitution.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically sound Telugu, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "Agriculture is a state subject according to the Constitution.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the exact meaning more concisely and idiomatically, using the natural phrase “రాష్ట్ర విషయంగా ఉంది” without any grammatical issues."
+    },
+    {
+      "english": "Agriculture is a state subject according to the Constitution.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, read naturally, and are grammatically correct, so either could win; choosing 1 arbitrarily."
+    },
+    {
+      "english": "Agriculture is a state subject according to the Constitution.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the exact meaning more concisely and idiomatically, using the natural phrase “రాష్ట్ర విషయం” without any grammatical issues."
+    },
+    {
+      "english": "Agriculture is a state subject according to the Constitution.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the exact legal meaning more directly and reads more naturally as a concise Telugu statement."
+    },
+    {
+      "english": "Errabelli gave the explanation after there were reports that he had secretly met KCR",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing the first is arbitrary."
+    },
+    {
+      "english": "Errabelli gave the explanation after there were reports that he had secretly met KCR",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It spells the name correctly (“ఎర్రబెల్లి”) and uses the more grammatically appropriate “వార్తలు వచ్చిన” while the second version has a misspelling and a less proper verb form."
+    },
+    {
+      "english": "Errabelli gave the explanation after there were reports that he had secretly met KCR",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the proper accusative case “కెసిఆర్ ను” making the sentence grammatically correct and more natural while preserving the original meaning."
+    },
+    {
+      "english": "Errabelli gave the explanation after there were reports that he had secretly met KCR",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It correctly spells the name “ఎర్రబెల్లి” and otherwise faithfully renders the original meaning with natural, grammatically sound Telugu."
+    },
+    {
+      "english": "Errabelli gave the explanation after there were reports that he had secretly met KCR",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both convey the same meaning, but Translation 2 uses the more natural accusative particle “ను” after “కెసిఆర్”, making it sound more idiomatic to native speakers."
+    },
+    {
+      "english": "Errabelli gave the explanation after there were reports that he had secretly met KCR",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly spells “Errabelli” and uses the proper accusative marker “ను” for “KCR,” making it more accurate and natural despite the minor pronoun redundancy shared with translation 1."
+    },
+    {
+      "english": "It was, not literal eye disease, but spiritual blindness that needed treatment.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both mistranslate “literal” as “అక్షరాస్యత,” but the phrasing in translation 2 (“అక్షరాస్యత కలిగిన”) is slightly more natural and grammatically smoother than the clunky “అక్షరాస్యతతో కూడిన” in translation 1."
+    },
+    {
+      "english": "It was, not literal eye disease, but spiritual blindness that needed treatment.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Translation 1 is grammatically correct and reads more naturally, preserving the contrast between a literal eye disease and spiritual blindness better than the awkward phrasing of translation 2."
+    },
+    {
+      "english": "It was, not literal eye disease, but spiritual blindness that needed treatment.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It more accurately conveys the contrast with “but” and uses correct grammar, whereas Translation 2 misuses “అక్షరాలా” and omits the necessary case marker, making it less accurate and less natural."
+    },
+    {
+      "english": "It was, not literal eye disease, but spiritual blindness that needed treatment.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It more clearly contrasts “not a literal eye disease” with “spiritual blindness” and reads more naturally, whereas Translation 1 misinterprets “literal” as “literacy,” altering the meaning."
+    },
+    {
+      "english": "It was, not literal eye disease, but spiritual blindness that needed treatment.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It preserves the original clause order and uses proper Telugu grammar and particles, making the meaning clearer than the more fragmented and ungrammatical Translation 2."
+    },
+    {
+      "english": "It was, not literal eye disease, but spiritual blindness that needed treatment.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It fully conveys the original meaning with the introductory “it was,” uses proper conjunction and case marking, and reads naturally in Telugu."
+    },
+    {
+      "english": "The hatchback features a large front grille, LED headlamps and sleek LED Daytime Running Lights (DRL)",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately conveys all details while using more natural phrasing (“ముందు భాగంలో … కలిగి ఉంటుంది”) and correct Telugu grammar."
+    },
+    {
+      "english": "The hatchback features a large front grille, LED headlamps and sleek LED Daytime Running Lights (DRL)",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately retains the original details, uses more natural Telugu phrasing, and has correct singular verb agreement (“కలిగి ఉంటుంది”)."
+    },
+    {
+      "english": "The hatchback features a large front grille, LED headlamps and sleek LED Daytime Running Lights (DRL)",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately retains all details while using natural Telugu wording and proper script (e.g., “ముందు భాగంలో పెద్ద గ్రిల్” and “లైట్లు”) rather than transliterations."
+    },
+    {
+      "english": "The hatchback features a large front grille, LED headlamps and sleek LED Daytime Running Lights (DRL)",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys the original meaning and uses the proper Telugu word “లైట్లు” instead of the less natural English‑derived “లైట్స్”."
+    },
+    {
+      "english": "The hatchback features a large front grille, LED headlamps and sleek LED Daytime Running Lights (DRL)",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both are accurate, but Translation 1’s “కలిగి ఉంటుంది” is a more natural way for a native speaker to express that the hatchback possesses those features."
+    },
+    {
+      "english": "The hatchback features a large front grille, LED headlamps and sleek LED Daytime Running Lights (DRL)",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It preserves the original meaning, uses correct singular verb agreement and more natural wording, whereas Translation 2 has a grammatical mismatch and an awkward “డేటైమ్” rendering."
+    },
+    {
+      "english": "Many safety measures are being taken around the world to fight the coronavirus.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original English meaning, so either would be correct; we select the first as the winner."
+    },
+    {
+      "english": "Many safety measures are being taken around the world to fight the coronavirus.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; choosing the first as the winner."
+    },
+    {
+      "english": "Many safety measures are being taken around the world to fight the coronavirus.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original English sentence, so either could win; we select the first."
+    },
+    {
+      "english": "Many safety measures are being taken around the world to fight the coronavirus.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original English meaning."
+    },
+    {
+      "english": "Many safety measures are being taken around the world to fight the coronavirus.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; we select the first."
+    },
+    {
+      "english": "Many safety measures are being taken around the world to fight the coronavirus.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the original meaning, reading naturally, though the verb agreement could be slightly improved; since they are the same, either could win, so we select 1."
+    },
+    {
+      "english": "3 lakh crores.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “3 lakh crores” as “3 లక్షల కోట్లు,” preserving meaning, sounding natural, and using proper Telugu grammar."
+    },
+    {
+      "english": "3 lakh crores.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “3 lakh crores” as “3 లక్షల కోట్లు,” preserving meaning, sounding natural, and using proper Telugu grammar."
+    },
+    {
+      "english": "3 lakh crores.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “3 lakh crores” in natural, grammatically correct Telugu, so either works; choosing the first as the winner."
+    },
+    {
+      "english": "3 lakh crores.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately conveying “3 lakh crores” in natural, grammatically correct Telugu, so either works; selecting the first as the winner."
+    },
+    {
+      "english": "3 lakh crores.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately rendering “3 lakh crores” as “3 లక్షల కోట్లు,” which is natural and grammatically correct in Telugu."
+    },
+    {
+      "english": "3 lakh crores.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately conveying “3 lakh crores” in natural, grammatically correct Telugu, so either works; we select the first as the winner."
+    },
+    {
+      "english": "When is a child adoptable?",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning, sounding natural, and using correct Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "When is a child adoptable?",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; selecting the first as the winner."
+    },
+    {
+      "english": "When is a child adoptable?",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both omit the notion of “adoptable,” but translation 2 is slightly more natural and concise while remaining grammatically correct."
+    },
+    {
+      "english": "When is a child adoptable?",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning, sounding natural, and using correct Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "When is a child adoptable?",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both omit the nuance of “adoptable,” but translation 2 is more natural and concise, avoiding the unnecessary article “ఒక.”"
+    },
+    {
+      "english": "When is a child adoptable?",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both miss the nuance of “adoptable,” but translation 1 (“ఒక బిడ్డను ఎప్పుడు దత్తత తీసుకుంటారు?”) is slightly more natural and idiomatic than translation 2."
+    },
+    {
+      "english": "Global icon Priyanka Chopra and husband Nick Jonas' Holi was also a family affair in Pune.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It is identical to Translation 2 and accurately, naturally, and grammatically conveys the original English meaning."
+    },
+    {
+      "english": "Global icon Priyanka Chopra and husband Nick Jonas' Holi was also a family affair in Pune.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing 1 as the winner."
+    },
+    {
+      "english": "Global icon Priyanka Chopra and husband Nick Jonas' Holi was also a family affair in Pune.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately preserves the possessive relationship (“Nick Jonas’ Holi”) and the full meaning, whereas Translation 2 drops the necessary “యొక్క” marker, making it less precise."
+    },
+    {
+      "english": "Global icon Priyanka Chopra and husband Nick Jonas' Holi was also a family affair in Pune.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the original meaning with acceptable naturalness and grammar, so either could win; we select the first as the winner."
+    },
+    {
+      "english": "Global icon Priyanka Chopra and husband Nick Jonas' Holi was also a family affair in Pune.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It correctly retains the full names and possessive construction (“Nick Jonas’ Holi”), preserving the original meaning more accurately than translation 2."
+    },
+    {
+      "english": "Global icon Priyanka Chopra and husband Nick Jonas' Holi was also a family affair in Pune.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It correctly uses the possessive marker ( యొక్క ) to convey “Priyanka Chopra and husband Nick Jonas’ Holi” and spells the name Priyanka accurately, preserving the original meaning more precisely and sounding more natural."
+    },
+    {
+      "english": "2019 Lok Sabha election is coming ahead.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing the first as the winner."
+    },
+    {
+      "english": "2019 Lok Sabha election is coming ahead.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Translation 1 correctly renders “Lok Sabha election” and uses proper Telugu spelling and grammar, while Translation 2 contains a misspelled “లోక్సభ” making it inaccurate and unnatural."
+    },
+    {
+      "english": "2019 Lok Sabha election is coming ahead.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing the first."
+    },
+    {
+      "english": "2019 Lok Sabha election is coming ahead.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Translation 1 correctly renders “Lok Sabha election” and uses proper Telugu spelling and grammar, while Translation 2 misspells “Lok Sabha,” making it inaccurate and unnatural."
+    },
+    {
+      "english": "2019 Lok Sabha election is coming ahead.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing the first as the winner."
+    },
+    {
+      "english": "2019 Lok Sabha election is coming ahead.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly spells “Lok Sabha,” preserving the original meaning and reads naturally with proper Telugu grammar."
+    },
+    {
+      "english": "{ $name } Container Preferences",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “Container Preferences” as “కంటైనర్ ప్రాధాన్యతలు”, preserving meaning and using natural Telugu phrasing."
+    },
+    {
+      "english": "{ $name } Container Preferences",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning, using natural Telugu phrasing and correct grammar, so either could win; we select the first."
+    },
+    {
+      "english": "{ $name } Container Preferences",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It keeps the original order (“{name} Container Preferences”) and reads naturally in Telugu, whereas the second places the placeholder after the phrase, which is awkward."
+    },
+    {
+      "english": "{ $name } Container Preferences",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and equally preserve the meaning, naturalness, and grammar, so either could win; I selected the first."
+    },
+    {
+      "english": "{ $name } Container Preferences",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It keeps the original order (“{ $name }” before “Container Preferences”), preserving meaning, while still sounding natural and grammatically correct in Telugu."
+    },
+    {
+      "english": "{ $name } Container Preferences",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It keeps the placeholder before “Container Preferences,” preserving the original meaning and matching natural Telugu phrasing."
+    },
+    {
+      "english": "the god lakshanna ,gunna,the shapes has given in different namas",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and equally preserve the meaning, read naturally, and are grammatically correct, so either could win; we select 1."
+    },
+    {
+      "english": "the god lakshanna ,gunna,the shapes has given in different namas",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with proper Telugu grammar and natural phrasing."
+    },
+    {
+      "english": "the god lakshanna ,gunna,the shapes has given in different namas",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the correct word “గుణ” (matching “gunna”) and reads more naturally while preserving the original meaning."
+    },
+    {
+      "english": "the god lakshanna ,gunna,the shapes has given in different namas",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and adequately convey the original meaning with acceptable naturalness and grammar, so either could win; we select the first."
+    },
+    {
+      "english": "the god lakshanna ,gunna,the shapes has given in different namas",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the correct Telugu word “గుణ” (quality) instead of the nonsensical “గున్న”, making the sentence more accurate and natural while preserving the original meaning."
+    },
+    {
+      "english": "the god lakshanna ,gunna,the shapes has given in different namas",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the correct, natural word “గుణ” instead of the misspelled “గున్న”, making the sentence clearer and more idiomatic while preserving the original meaning."
+    },
+    {
+      "english": "Feeling the pain",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately conveying “Feeling the pain” with correct, natural Telugu phrasing."
+    },
+    {
+      "english": "Feeling the pain",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Feeling the pain” in natural, grammatically correct Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "Feeling the pain",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey “Feeling the pain,” and are natural and grammatically correct in Telugu."
+    },
+    {
+      "english": "Feeling the pain",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately conveying “Feeling the pain” with correct, natural Telugu phrasing."
+    },
+    {
+      "english": "Feeling the pain",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and convey the meaning, but “నొప్పి అనుభూతి” is a literal noun phrase that is slightly less natural than a gerund form like “నొప్పి అనుభవించడం,” yet since they are the same, the first is chosen as the winner."
+    },
+    {
+      "english": "Feeling the pain",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “Feeling the pain” in natural, grammatically correct Telugu, so either would work; choosing the first as the winner."
+    },
+    {
+      "english": "Even in India everyone was Hindu",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either is correct; choosing the first as the winner."
+    },
+    {
+      "english": "Even in India everyone was Hindu",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It retains the original meaning, includes the past‑tense verb “were,” and is grammatically correct and natural for a native Telugu speaker."
+    },
+    {
+      "english": "Even in India everyone was Hindu",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately preserves the meaning while using the natural emphatic form “హిందువులే” that a native speaker would prefer, and it follows correct Telugu grammar."
+    },
+    {
+      "english": "Even in India everyone was Hindu",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the same meaning accurately and reads more naturally as a concise Telugu statement, while still being grammatically correct."
+    },
+    {
+      "english": "Even in India everyone was Hindu",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the original meaning accurately without the extra emphatic nuance of “‑లే”, and reads naturally with correct grammar."
+    },
+    {
+      "english": "Even in India everyone was Hindu",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately retains the original past‑tense meaning and includes a proper verb, while remaining grammatically correct."
+    },
+    {
+      "english": "But that has not been implemented.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would be acceptable; we select the first as the winner."
+    },
+    {
+      "english": "But that has not been implemented.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would win; we select 1."
+    },
+    {
+      "english": "But that has not been implemented.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "But that has not been implemented.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would be acceptable; we select the first as the winner."
+    },
+    {
+      "english": "But that has not been implemented.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "But that has not been implemented.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, sound natural, and use proper Telugu grammar, so either would win; we select the first."
+    },
+    {
+      "english": "Scored 82.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and do not convey the meaning of “Scored 82,” but since there is no difference, the first is chosen by default."
+    },
+    {
+      "english": "Scored 82.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and incorrectly render “Scored 82” as “ran 82”, failing to preserve the original meaning."
+    },
+    {
+      "english": "Scored 82.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both translations misinterpret “Scored 82,” but the second uses a gender‑neutral verb form, making it slightly more appropriate."
+    },
+    {
+      "english": "Scored 82.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and do not convey the meaning of “Scored 82,” but since there is no difference, the first is chosen by default."
+    },
+    {
+      "english": "Scored 82.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both translations misinterpret “Scored 82” as “ran 82,” but translation 2 uses a gender‑neutral verb form, making it marginally more appropriate."
+    },
+    {
+      "english": "Scored 82.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the intended meaning without adding gender‑specific information, making it more accurate while remaining natural and grammatically correct."
+    },
+    {
+      "english": "Aadhaar on arrival for NRIs with Indian passport: Nirmala Sitharaman",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It more accurately and naturally conveys “NRIs who have an Indian passport” without awkward phrasing, while maintaining correct Telugu grammar."
+    },
+    {
+      "english": "Aadhaar on arrival for NRIs with Indian passport: Nirmala Sitharaman",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It more precisely conveys “NRIs who have an Indian passport” by using “కలిగి ఉన్న” and reads slightly more naturally, while both share similar minor grammatical quirks."
+    },
+    {
+      "english": "Aadhaar on arrival for NRIs with Indian passport: Nirmala Sitharaman",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It correctly conveys the original meaning with proper grammar, whereas translation 2 contains lexical errors (“ఆధార్కార్డు”) and is less accurate."
+    },
+    {
+      "english": "Aadhaar on arrival for NRIs with Indian passport: Nirmala Sitharaman",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning in natural, grammatically sound Telugu, so either would be acceptable; we select the first as the winner."
+    },
+    {
+      "english": "Aadhaar on arrival for NRIs with Indian passport: Nirmala Sitharaman",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It more closely conveys the intended meaning (“Aadhaar on arrival for NRIs with Indian passport”) and uses a more natural phrasing than the second version, even though it has minor spelling and grammatical issues."
+    },
+    {
+      "english": "Aadhaar on arrival for NRIs with Indian passport: Nirmala Sitharaman",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the intended action of dealing with Aadhaar on arrival, whereas the second version merely mentions the Aadhaar card without indicating the required action."
+    },
+    {
+      "english": "Meanwhile, Fire TV Stick Lite is a new, even more affordable way to begin streaming in full HD.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing the first as the winner."
+    },
+    {
+      "english": "Meanwhile, Fire TV Stick Lite is a new, even more affordable way to begin streaming in full HD.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original sentence, so either could win; choosing the first as the winner."
+    },
+    {
+      "english": "Meanwhile, Fire TV Stick Lite is a new, even more affordable way to begin streaming in full HD.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original sentence, so either could win; choosing the first as the winner."
+    },
+    {
+      "english": "Meanwhile, Fire TV Stick Lite is a new, even more affordable way to begin streaming in full HD.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original sentence, so either could win; choosing the first by default."
+    },
+    {
+      "english": "Meanwhile, Fire TV Stick Lite is a new, even more affordable way to begin streaming in full HD.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original meaning, so either could win; selecting the first as the winner."
+    },
+    {
+      "english": "Meanwhile, Fire TV Stick Lite is a new, even more affordable way to begin streaming in full HD.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would work; choosing the first as the winner."
+    },
+    {
+      "english": "And yet it still shocks me how people get so uptight over it.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: “షాక్కు గురి చేస్తుంది” is marginally more natural and grammatically acceptable than “షాక్కు గురిచేస్తుంది,” preserving the original meaning with fewer awkward constructions."
+    },
+    {
+      "english": "And yet it still shocks me how people get so uptight over it.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the more appropriate “ఇప్పటికీ” for “still” and avoids the redundant “ఇంకా” of version 1, making it marginally more natural despite the imperfect rendering of “uptight.”"
+    },
+    {
+      "english": "And yet it still shocks me how people get so uptight over it.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It more closely conveys the idea of people being overly rigid (“మొండిగా”) rather than mistakenly using “మొగ్గు” (affection), and its phrasing is more natural and grammatically sound in Telugu."
+    },
+    {
+      "english": "And yet it still shocks me how people get so uptight over it.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses a more natural construction (“ఇప్పటికీ షాక్ చేస్తుంది”) and avoids the awkward “షాక్కు గురి” of version 1, even though both misuse “మొగ్గు చూపుతారు” for “uptight.”"
+    },
+    {
+      "english": "And yet it still shocks me how people get so uptight over it.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It better captures the sense of people being overly rigid/uptight, while translation 1 misinterprets “uptight” as “showing affection,” altering the original meaning."
+    },
+    {
+      "english": "And yet it still shocks me how people get so uptight over it.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It correctly conveys the idea of people being overly rigid (“మొండిగా”) and still shocking the speaker, using natural and grammatically sound Telugu, whereas Translation 1 misinterprets “uptight” as “మొగ్గు”."
+    },
+    {
+      "english": "Union Minister Bandaru Dattatreya inaugurated the function.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first as the winner."
+    },
+    {
+      "english": "Union Minister Bandaru Dattatreya inaugurated the function.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, read naturally, and are grammatically correct, so either would win; choosing 1 arbitrarily."
+    },
+    {
+      "english": "Union Minister Bandaru Dattatreya inaugurated the function.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first."
+    },
+    {
+      "english": "Union Minister Bandaru Dattatreya inaugurated the function.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; we select 1."
+    },
+    {
+      "english": "Union Minister Bandaru Dattatreya inaugurated the function.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning, sounding natural, and using correct Telugu grammar, so either would win; we select 1."
+    },
+    {
+      "english": "Union Minister Bandaru Dattatreya inaugurated the function.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; we select the first."
+    },
+    {
+      "english": "We are really close.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey “We are really close” in natural, grammatically correct Telugu, so either works; choosing the first as the winner."
+    },
+    {
+      "english": "We are really close.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey “We are really close,” and are natural and grammatically correct in Telugu, so either could win; we select the first."
+    },
+    {
+      "english": "We are really close.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: “మేము చాలా దగ్గరగా ఉన్నాము.” naturally and accurately conveys the intensifier “really” as “very,” while the first uses “నిజంగా,” which is less idiomatic for expressing degree."
+    },
+    {
+      "english": "We are really close.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately conveying “We are really close” with correct, natural Telugu grammar, so either could win; we select the first."
+    },
+    {
+      "english": "We are really close.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses the natural intensifier “చాలా” to convey “really” and reads idiomatically as “We are very close,” preserving the original meaning."
+    },
+    {
+      "english": "We are really close.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: “చాలా” correctly intensifies “close” and sounds natural in Telugu, whereas “నిజంగా” is less idiomatic for expressing degree."
+    },
+    {
+      "english": "One was killed.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "dpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: “ఒకరిని చంపారు.” directly conveys that a person was killed, matching the original meaning and sounding natural, whereas “ఒకరి ప్రాణాలు కోల్పోయారు.” merely says someone lost their life, which is less precise."
+    },
+    {
+      "english": "One was killed.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It is grammatically correct and reads naturally as a native Telugu sentence, whereas Translation 1 is awkward and less idiomatic. (Both miss the nuance of “killed,” but 2 is the better overall rendering.)"
+    },
+    {
+      "english": "One was killed.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 directly conveys “One was killed” with correct grammar and natural phrasing, while Translation 1 changes the nuance to “someone lost his life” and has grammatical issues."
+    },
+    {
+      "english": "One was killed.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys that a person was killed, whereas the second translation changes the meaning to simply “died,” and both are grammatically correct and natural."
+    },
+    {
+      "english": "One was killed.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “One was killed.”, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "One was killed.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 accurately conveys the meaning “one was killed” while being natural and grammatically correct, whereas Translation 1 only says “one died,” losing the sense of being killed."
+    },
+    {
+      "english": "18,969.26 crores are yet to be received",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first is arbitrary."
+    },
+    {
+      "english": "18,969.26 crores are yet to be received",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would be correct; choosing the first is arbitrary."
+    },
+    {
+      "english": "18,969.26 crores are yet to be received",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both convey the same meaning, but Translation 2 includes proper terminal punctuation, making it slightly more natural and grammatically complete."
+    },
+    {
+      "english": "18,969.26 crores are yet to be received",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, using natural and grammatically correct Telugu."
+    },
+    {
+      "english": "18,969.26 crores are yet to be received",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both convey the same meaning, but adding the final period makes the sentence read more naturally as a complete statement in Telugu."
+    },
+    {
+      "english": "18,969.26 crores are yet to be received",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Both convey the same meaning, but the version with the concluding period reads as a complete, natural sentence."
+    },
+    {
+      "english": "Bathroom design",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey “Bathroom design” in a natural, grammatically correct way, so either would be acceptable."
+    },
+    {
+      "english": "Bathroom design",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey “Bathroom design” in correct Telugu script."
+    },
+    {
+      "english": "Bathroom design",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey “Bathroom design” in natural, grammatically correct Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "Bathroom design",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey “Bathroom design” while using correct Telugu script, so either is acceptable; choosing the first as the winner."
+    },
+    {
+      "english": "Bathroom design",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning and using correct script, so either is acceptable; selecting the first as the winner."
+    },
+    {
+      "english": "Bathroom design",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, preserving the meaning equally, so either could be chosen as the winner."
+    },
+    {
+      "english": "What to watch for",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “What to watch for,” so either works, and we select the first."
+    },
+    {
+      "english": "What to watch for",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the meaning, but as they are the same, the first is selected as the winner."
+    },
+    {
+      "english": "What to watch for",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the meaning, using correct grammar."
+    },
+    {
+      "english": "What to watch for",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, and are grammatically correct, so either could win; choosing the first by default."
+    },
+    {
+      "english": "What to watch for",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “What to watch for” in Telugu."
+    },
+    {
+      "english": "What to watch for",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “What to watch for” in Telugu."
+    },
+    {
+      "english": "Junior College.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “Junior College” in natural, grammatically correct Telugu, so either would be acceptable."
+    },
+    {
+      "english": "Junior College.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “Junior College” as “జూనియర్ కళాశాల,” preserving meaning, sounding natural, and using proper Telugu grammar."
+    },
+    {
+      "english": "Junior College.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “Junior College” in natural, grammatically correct Telugu, so either would work; choosing the first as the winner."
+    },
+    {
+      "english": "Junior College.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning, natural, and grammatically correct, so either could win; we select 1 arbitrarily."
+    },
+    {
+      "english": "Junior College.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately preserving the meaning, natural, and grammatically correct, so either would win; we select 1 arbitrarily."
+    },
+    {
+      "english": "Junior College.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly render “Junior College” in natural, grammatically correct Telugu, so either would be acceptable."
+    },
+    {
+      "english": "This has made the farmers restive.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, but they misinterpret “restive” as severe fear/anxiety rather than agitation or restlessness, so they do not accurately preserve the original meaning."
+    },
+    {
+      "english": "This has made the farmers restive.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 accurately conveys the sense of causing unease without adding extra meaning, and it reads naturally with correct Telugu grammar."
+    },
+    {
+      "english": "This has made the farmers restive.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the sense of farmers becoming uneasy without adding extra notions like “severe fear,” and it reads naturally with correct Telugu grammar."
+    },
+    {
+      "english": "This has made the farmers restive.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "simpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 conveys the intended sense of causing unease (“ఆందోళన”) without adding extra intensity or unrelated concepts, and it reads more naturally and grammatically in Telugu."
+    },
+    {
+      "english": "This has made the farmers restive.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 accurately conveys the farmers’ unease (restiveness) without adding extra notions like fear, and it reads naturally with correct Telugu grammar."
+    },
+    {
+      "english": "This has made the farmers restive.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It directly conveys the causative sense of “has made” and reads more naturally as a typical Telugu construction."
+    },
+    {
+      "english": "Its not the first time that a mutual fund platform has forayed into offering NPS.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original meaning, so either could win; we select the first."
+    },
+    {
+      "english": "Its not the first time that a mutual fund platform has forayed into offering NPS.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original meaning, so either would win; we select the first by default."
+    },
+    {
+      "english": "Its not the first time that a mutual fund platform has forayed into offering NPS.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It more fully captures the idea of the platform “foraying” into NPS while remaining grammatically correct, even though its phrasing is a bit less idiomatic than Translation 1."
+    },
+    {
+      "english": "Its not the first time that a mutual fund platform has forayed into offering NPS.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: The translation accurately conveys the original meaning, reads naturally, and uses correct Telugu grammar; both versions are identical, so either would win, and we select the first."
+    },
+    {
+      "english": "Its not the first time that a mutual fund platform has forayed into offering NPS.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It retains the original meaning, including the nuance of “forayed into,” and reads naturally with correct Telugu grammar."
+    },
+    {
+      "english": "Its not the first time that a mutual fund platform has forayed into offering NPS.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the original meaning accurately in a concise, natural‑sounding way without the clunky phrasing found in translation 2."
+    },
+    {
+      "english": "Ajit Pawars son Parth Pawar lost to Shiv Sena MP Shrirang Barne by 2.15 lakh votes in Maval constituency.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It correctly renders the name “Shrirang Barne” as శ్రీరంగ్ బర్నే, preserving the original meaning without the misspelling present in translation 2."
+    },
+    {
+      "english": "Ajit Pawars son Parth Pawar lost to Shiv Sena MP Shrirang Barne by 2.15 lakh votes in Maval constituency.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately preserves the original meaning and correctly transliterates “Shrirang Barne,” whereas translation 2 adds an extra vowel, making the name less accurate."
+    },
+    {
+      "english": "Ajit Pawars son Parth Pawar lost to Shiv Sena MP Shrirang Barne by 2.15 lakh votes in Maval constituency.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically convey the original English sentence, so either could win; choosing 1 as the winner."
+    },
+    {
+      "english": "Ajit Pawars son Parth Pawar lost to Shiv Sena MP Shrirang Barne by 2.15 lakh votes in Maval constituency.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; choosing the first is arbitrary."
+    },
+    {
+      "english": "Ajit Pawars son Parth Pawar lost to Shiv Sena MP Shrirang Barne by 2.15 lakh votes in Maval constituency.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It accurately preserves the original meaning and uses the correct Telugu spelling of the name “Shrirang” (శ్రీరంగ్), making it both precise and natural."
+    },
+    {
+      "english": "Ajit Pawars son Parth Pawar lost to Shiv Sena MP Shrirang Barne by 2.15 lakh votes in Maval constituency.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: Translation 2 correctly renders the name “Shrirang” as శ్రీరంగ్, preserving the original meaning without the spelling error present in Translation 1."
+    },
+    {
+      "english": "No stress whatsoever.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render “No stress whatsoever” in Telugu."
+    },
+    {
+      "english": "No stress whatsoever.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey “No stress whatsoever,” and are natural and grammatically correct Telugu, so either works; we select the first as the winner."
+    },
+    {
+      "english": "No stress whatsoever.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It conveys the exact meaning with the idiomatic “ఎటువంటి … లేదు” construction, which sounds more natural to native speakers than “ఎలాంటి … ఉండదు.”"
+    },
+    {
+      "english": "No stress whatsoever.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey “No stress whatsoever,” and are natural and grammatically correct Telugu, so either works; choosing the first as the winner."
+    },
+    {
+      "english": "No stress whatsoever.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: “ఎటువంటి ఒత్తిడి లేదు.” more directly and naturally conveys “No stress whatsoever” without awkwardness, while still being grammatically correct."
+    },
+    {
+      "english": "No stress whatsoever.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys “no stress whatsoever,” uses the more natural and idiomatic “లేదు” construction, and is grammatically correct."
+    },
+    {
+      "english": "Police and firefighters have reached the spot.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; we select the first by default."
+    },
+    {
+      "english": "Police and firefighters have reached the spot.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; we select the first."
+    },
+    {
+      "english": "Police and firefighters have reached the spot.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first."
+    },
+    {
+      "english": "Police and firefighters have reached the spot.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first."
+    },
+    {
+      "english": "Police and firefighters have reached the spot.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first."
+    },
+    {
+      "english": "Police and firefighters have reached the spot.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; we select the first."
+    },
+    {
+      "english": "What are the factors impacting prices?",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, sound natural, and are grammatically correct, so either would win; choosing 1 as the winner."
+    },
+    {
+      "english": "What are the factors impacting prices?",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It uses the precise term “కారకాలు” for “factors,” preserving the original meaning more accurately while remaining natural and grammatically correct."
+    },
+    {
+      "english": "What are the factors impacting prices?",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys “factors” with the more appropriate term “కారకాలు” and reads more naturally to native speakers."
+    },
+    {
+      "english": "What are the factors impacting prices?",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It uses the more precise word “కారకాలు” for “factors,” preserving the original meaning more accurately while remaining natural and grammatically correct."
+    },
+    {
+      "english": "What are the factors impacting prices?",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It uses the more appropriate word “కారకాలు” for “factors,” preserving the original meaning more precisely while remaining natural and grammatically correct."
+    },
+    {
+      "english": "What are the factors impacting prices?",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, sound natural, and are grammatically correct, so either works; we select the first as the winner."
+    },
+    {
+      "english": "Current account deficit is rising.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, sound natural, and are grammatically correct, so either would win; choosing the first."
+    },
+    {
+      "english": "Current account deficit is rising.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, read naturally, and are grammatically correct, so either would win; choosing the first."
+    },
+    {
+      "english": "Current account deficit is rising.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, read naturally, and are grammatically correct, so either could win; we select the first."
+    },
+    {
+      "english": "Current account deficit is rising.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It exactly matches the meaning of the English sentence, uses natural Telugu phrasing, and is grammatically correct."
+    },
+    {
+      "english": "Current account deficit is rising.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, read naturally, and are grammatically correct, so either would win; we select 1."
+    },
+    {
+      "english": "Current account deficit is rising.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the meaning, read naturally, and use proper Telugu grammar, so either would win; we select the first as the winner."
+    },
+    {
+      "english": "Nacho is around 120 kilometers from the district headquarters",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the meaning, read naturally, and are grammatically correct, so either would win; we select the first."
+    },
+    {
+      "english": "Nacho is around 120 kilometers from the district headquarters",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning with natural, grammatically correct Telugu."
+    },
+    {
+      "english": "Nacho is around 120 kilometers from the district headquarters",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning in natural, grammatically correct Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "Nacho is around 120 kilometers from the district headquarters",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately convey the meaning with correct grammar, so either could win; we select the first as the winner."
+    },
+    {
+      "english": "Nacho is around 120 kilometers from the district headquarters",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical, accurately convey the original meaning, read naturally, and are grammatically correct, so either could win; we select the first as the winner."
+    },
+    {
+      "english": "Nacho is around 120 kilometers from the district headquarters",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "simpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and correctly convey the original meaning in natural, grammatically correct Telugu, so either would win; we select the first."
+    },
+    {
+      "english": "The chargesheet also claims that these accused had hatched a conspiracy to assassinate Prime Minister Narendra Modi.",
+      "model_1": "sft",
+      "model_2": "dpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either could win; selecting 1 as the winner."
+    },
+    {
+      "english": "The chargesheet also claims that these accused had hatched a conspiracy to assassinate Prime Minister Narendra Modi.",
+      "model_1": "sft",
+      "model_2": "simpo",
+      "winner": "sft",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It is identical to Translation 2, accurately preserving the original meaning, reads naturally, and uses correct Telugu grammar and script."
+    },
+    {
+      "english": "The chargesheet also claims that these accused had hatched a conspiracy to assassinate Prime Minister Narendra Modi.",
+      "model_1": "sft",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It uses a more natural reported‑speech construction (“కుట్ర పన్నారని”) that better mirrors the English clause, preserving meaning more cleanly than the clunky “కుట్ర పన్నినట్లు” of translation 1."
+    },
+    {
+      "english": "The chargesheet also claims that these accused had hatched a conspiracy to assassinate Prime Minister Narendra Modi.",
+      "model_1": "dpo",
+      "model_2": "simpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: Both translations are identical and accurately, naturally, and grammatically render the English sentence, so either would win; choosing the first as the winner."
+    },
+    {
+      "english": "The chargesheet also claims that these accused had hatched a conspiracy to assassinate Prime Minister Narendra Modi.",
+      "model_1": "dpo",
+      "model_2": "orpo",
+      "winner": "dpo",
+      "winner_slot": "1",
+      "reason": "Winner: 1  \nReason: It accurately conveys the meaning, reads naturally, and uses correct spacing and script, whereas Translation 2 has a typographical spacing error in “ఛార్జ్షీట్”."
+    },
+    {
+      "english": "The chargesheet also claims that these accused had hatched a conspiracy to assassinate Prime Minister Narendra Modi.",
+      "model_1": "simpo",
+      "model_2": "orpo",
+      "winner": "orpo",
+      "winner_slot": "2",
+      "reason": "Winner: 2  \nReason: It conveys the exact meaning while using a more natural reported‑speech construction (“కుట్ర పన్నారని”) and a smoother placement of “also,” making it sound more like native Telugu."
+    }
+  ],
+  "alignment_tax_check": {
+    "sft": [
+      {
+        "english": "The sun rises in the east.",
+        "telugu": "सूर्युडु तूर्पुन उदयिस्ताडु."
+      },
+      {
+        "english": "I would like a cup of coffee.",
+        "telugu": "नाकु ऒक कप्पु काफी कावालि."
+      },
+      {
+        "english": "She is reading a book.",
+        "telugu": "आमॆ ऒक पुस्तकं चदुवुतोंदि."
+      },
+      {
+        "english": "The train arrives at nine o'clock.",
+        "telugu": "रैलु तॊम्मिदि गंटलकु वस्तुंदि."
+      },
+      {
+        "english": "He works at a hospital.",
+        "telugu": "अतनु ऒक आसुपत्रिलो पनिचेस्ताडु."
+      }
+    ],
+    "dpo": [
+      {
+        "english": "The sun rises in the east.",
+        "telugu": "सूर्युडु तूर्पुन उदयिस्ताडु."
+      },
+      {
+        "english": "I would like a cup of coffee.",
+        "telugu": "नाकु ऒक कप्पु काफी कावालि."
+      },
+      {
+        "english": "She is reading a book.",
+        "telugu": "आमॆ ऒक पुस्तकं चदुवुतोंदि."
+      },
+      {
+        "english": "The train arrives at nine o'clock.",
+        "telugu": "रैलु तॊम्मिदि गंटलकु वस्तुंदि."
+      },
+      {
+        "english": "He works at a hospital.",
+        "telugu": "अतनु ऒक आसुपत्रिलो पनिचेस्ताडु."
+      }
+    ],
+    "simpo": [
+      {
+        "english": "The sun rises in the east.",
+        "telugu": "सूर्युडु तूर्पुन उदयिस्ताडु."
+      },
+      {
+        "english": "I would like a cup of coffee.",
+        "telugu": "नाकु ऒक कप्पु काफी कावालि."
+      },
+      {
+        "english": "She is reading a book.",
+        "telugu": "आमॆ ऒक पुस्तकं चदुवुतोंदि."
+      },
+      {
+        "english": "The train arrives at nine o'clock.",
+        "telugu": "रैलु तॊम्मिदि गंटलकु वस्तुंदि."
+      },
+      {
+        "english": "He works at a hospital.",
+        "telugu": "अतनु ऒक आसुपत्रिलो पनिचेस्ताडु."
+      }
+    ],
+    "orpo": [
+      {
+        "english": "The sun rises in the east.",
+        "telugu": "सूर्युडु तूर्पुन उदयिस्ताडु."
+      },
+      {
+        "english": "I would like a cup of coffee.",
+        "telugu": "नाकु ऒक कप्पु काफी कावालि."
+      },
+      {
+        "english": "She is reading a book.",
+        "telugu": "आमॆ ऒक पुस्तकं चदुवुतोंदि."
+      },
+      {
+        "english": "The train arrives at nine o'clock.",
+        "telugu": "रैलु तॊम्मिदि गंटलकु वस्तुंदि."
+      },
+      {
+        "english": "He works at a hospital.",
+        "telugu": "अतनु ऒक आसुपत्रिलो पनिचेस्ताडु."
+      }
+    ]
+  }
+}
